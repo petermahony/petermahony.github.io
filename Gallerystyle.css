@@ -1,0 +1,174 @@
+#all {
+background-color: #A4BECF;
+height: 3000px
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 180px;
+padding-top: 65px;
+padding-bottom: 65px;
+font-size: 25px;
+letter-spacing: 3px;
+}
+
+
+#galfarran {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: left;
+}
+
+#galFarranWoodinfo {
+position: absolute;
+left: 733px;
+bottom: 37px;
+width: 500px;
+font-family: candara, sans-serif;
+color: black
+}
+
+
+#galFarranframed {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 889px
+}
+
+#galFarranbio {
+position: absolute;
+top: 46%;
+right: 550px;
+width: 700px;
+height: 500px;
+font-size: 17;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+
+#galsummerevening {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: left;
+}
+
+#galsummereveninginfo {
+position: absolute;
+width: 500px;
+left: 697px;
+bottom: 37px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#galseframed {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 861px
+}
+
+#galsebio {
+position: absolute;
+top: 46%;
+right: 550px;
+width: 700px;
+height: 500px;
+font-size: 17;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB 
+}
+
+#FrostyWalk {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: left;
+}
+
+#FrostyWalkinfo {
+position: absolute;
+width: 500px;
+left: 817px;
+bottom: 37px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#frostyframed {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 798px
+}
+
+#frostybio {
+position: absolute;
+top: 46%;
+right: 550px;
+width: 700px;
+height: 500px;
+font-size: 17;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+
+#page2 {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 25;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline
+}
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
+}
+
+
+#footer {
+position: relative;
+clear: both;
+background-color: #829BB9;
+height: 100px;
+width: 1333px;
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 17;
+font-family: candara, sans-serif;
+bottom: 50%;
+color: black
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 17;
+font-family: candara, sans-serif;
+bottom: 50%;
+color: black
+}
+
+
+
