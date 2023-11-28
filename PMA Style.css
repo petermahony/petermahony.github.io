@@ -104,5 +104,6 @@ color: #FFE8AB;
 text-decoration: underline;
 }
 
+@media (max-width: 360px) {}
 
 
