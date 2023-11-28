@@ -104,6 +104,11 @@ color: #FFE8AB;
 text-decoration: underline;
 }
 
-@media (max-width: 360px) {}
+@media (max-width: 360px) {
 
+#header: {
+width: 360px;
+}
+
+}
 
