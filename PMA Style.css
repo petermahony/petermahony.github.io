@@ -1,6 +1,7 @@
 #all {
 background-color: #A4BECF;
-height: 1200px
+height: 100%;
+width: 100%;
 }
 
 #header {
@@ -22,11 +23,17 @@ padding: 25px;
 background-color:#546875;
 } 
 
+#FW {
+width: 100%;
+max-width: 61%;
+height: auto;
+}
+
 #welcome {
 position: relative;
 text-align: center;
 bottom: 400px; 
-font-size: 50;
+font-size: 50px;
 letter-spacing: 5px;
 color: #FFE8AB 
 }
@@ -35,7 +42,7 @@ color: #FFE8AB
 position: absolute;
 left: 320px;
 bottom: 200px; 
-font-size: 30;
+font-size: 30px;
 color: #FFE8AB 
 }
 
@@ -43,7 +50,7 @@ color: #FFE8AB
 position: absolute;
 right: 320px;
 bottom: 200px; 
-font-size: 30;
+font-size: 30px;
 color: #FFE8AB 
 }
 
@@ -51,7 +58,7 @@ color: #FFE8AB
 position: absolute;
 left: 48%;
 bottom: 200px; 
-font-size: 30;
+font-size: 30px;
 color: #FFE8AB 
 }
 
@@ -63,7 +70,7 @@ text-decoration: underline;
 
 #biotitle {
 font-family: Palatino, Aboreto, "Times New Roman", georgia;
-font-size: 20
+font-size: 20px;
 }
 
 
@@ -72,21 +79,23 @@ font-family: Aboreto, "Times New Roman", georgia;
 clear: both;
 padding: 5px 220px 100px 220px; 
 background-color: #546875;
-font-size: 17;
-color: #FFE8AB; 
+font-size: 17px;
+color: #FFE8AB;
+min-width: 300px
 }
 
 #footer {
 position: relative;
 background-color: #829BB9;
 height: 100px;
-width: 100%;
+width: 100%
+
 }
 
 #footerleft {
 position: absolute;
 left: 100px;
-font-size: 17;
+font-size: 17px;
 font-family: candara, sans-serif;
 bottom: 50%
 }
@@ -94,7 +103,7 @@ bottom: 50%
 #footerright {
 position: absolute;
 right: 100px;
-font-size: 17;
+font-size: 17px;
 font-family: candara, sans-serif;
 bottom: 50%
 }
@@ -106,9 +115,111 @@ text-decoration: underline;
 
 @media (max-width: 360px) {
 
-#header: {
+#all {
+background-color: #A4BECF;
+height: 100%;
+width: 100%;
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 340px;
+padding: 10px;
+}
+
+
+#FrostyWalkheading {
+position: relative;
+background-color:#546875;
+width: 340px;
+padding: 10px;
+} 
+
+
+#FW {
+max-width: 100%;
+width: 80%;
+}
+
+#welcome {
+position: relative;
+text-align: center;
+bottom: 170px; 
+font-size: 20px;
+letter-spacing: 5px;
+color: #FFE8AB 
+}
+
+#bottom-left {
+position: absolute;
+left: 50px;
+bottom: 92px; 
+font-size: 15px;
+color: #FFE8AB 
+}
+
+#bottom-right {
+position: absolute;
+right: 50px;
+bottom: 92px; 
+font-size: 15px;
+color: #FFE8AB 
+}
+
+#centered {
+position: absolute;
+left: 48%;
+bottom: 92px; 
+font-size: 15px;
+color: #FFE8AB 
+}
+
+#biotitle {
+font-family: Palatino, Aboreto, "Times New Roman", georgia;
+font-size: 20px;
+}
+
+#mybio {
+font-family: Aboreto, "Times New Roman", georgia;
+background-color: #546875;
+font-size: 14px;
+color: #FFE8AB;
+max-width: 360px;
+width: 330px;
+padding: 15px;
+bottom-padding: 10px;
+}
+
+#footer {
+position: relative;
+background-color: #829BB9;
+height: 100px;
 width: 360px;
+
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 40%
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 55%
 }
 
 }
+
 
