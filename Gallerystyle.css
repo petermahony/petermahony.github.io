@@ -1,6 +1,7 @@
 #all {
 background-color: #A4BECF;
-height: 3000px
+height: 100%;
+width: 100%;
 }
 
 #header {
@@ -16,35 +17,39 @@ letter-spacing: 3px;
 }
 
 
-#galFarran {
+#FarranWood {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
+width: 100%;
+max-width: 47%;
 }
+
 
 #galFarranWoodinfo {
 position: absolute;
 left: 733px;
-bottom: 37px;
+top: 731px;
 width: 500px;
 font-family: candara, sans-serif;
 color: black
 }
 
-
-#galFarranframed {
+#FarranFramed {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 905px
+padding-left: 905px;
+width: 100%;
+max-width: 31.5%;
 }
 
 #galFarranbio {
 position: absolute;
-top: 46%;
+top: 1040px;
 right: 550px;
 width: 700px;
 height: 500px;
@@ -54,34 +59,38 @@ color: #FFE8AB
 }
 
 
-#galsummerevening {
+#SummerEvening {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
+width: 100%;
+max-width: 45%;
 }
 
 #galsummereveninginfo {
 position: absolute;
 width: 500px;
 left: 697px;
-bottom: 37px;
+top: 1740px;
 font-family: candara, sans-serif;
 color: black
 }
 
-#galseframed {
+#SummerEveningframed {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 861px
+padding-left: 872px;
+width: 100%;
+max-width: 33.5%;
 }
 
 #galsebio {
 position: absolute;
-top: 46%;
+top: 2100px;
 right: 550px;
 width: 700px;
 height: 500px;
@@ -95,29 +104,33 @@ position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
+width: 100%;
+max-width: 55%;
 }
 
 #FrostyWalkinfo {
 position: absolute;
 width: 500px;
 left: 817px;
-bottom: 37px;
+top: 2740px;
 font-family: candara, sans-serif;
 color: black
 }
 
-#frostyframed {
+#FrostyEasel {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 798px
+padding-left: 853px;
+width: 100%;
+max-width: 35%;
 }
 
 #frostybio {
 position: absolute;
-top: 46%;
+top: 3050px;
 right: 550px;
 width: 700px;
 height: 500px;
@@ -128,15 +141,26 @@ color: #FFE8AB
 
 
 #page2 {
+
 position: relative;
+
 clear: both;
+
 text-align: center;
-font-size: 25;
+
+font-size: 25px;
+
 color: #FFE8AB;
+
 background-color: #829BB9;
+
 padding: 10px;
+
 text-decoration: underline
+
 }
+
+
 
 #portfolio {
 color: #FFE8AB;
@@ -146,16 +170,15 @@ text-decoration: none;
 
 #footer {
 position: relative;
-clear: both;
 background-color: #829BB9;
 height: 100px;
-width: 1333px;
+width: 100%;
 }
 
 #footerleft {
 position: absolute;
 left: 100px;
-font-size: 17;
+font-size: 17px;
 font-family: candara, sans-serif;
 bottom: 50%;
 color: black
@@ -164,7 +187,7 @@ color: black
 #footerright {
 position: absolute;
 right: 100px;
-font-size: 17;
+font-size: 17px;
 font-family: candara, sans-serif;
 bottom: 50%;
 color: black
