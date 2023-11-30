@@ -1,14 +1,11 @@
-#body{ 
-  margin: 0;
-  padding: 0;
+#body {
+border: 0;
 }
 
 #all {
 background-color: #A4BECF;
 height: 100%;
 width: 100%;
-margin: 0;
-  padding: 0;
 }
 
 #header {
@@ -126,6 +123,7 @@ text-decoration: underline;
 background-color: #A4BECF;
 height: 100%;
 width: 100%;
+margin: 0;
 }
 
 #header {
