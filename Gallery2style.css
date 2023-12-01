@@ -1,6 +1,7 @@
 #all {
 background-color: #A4BECF;
-height: 3000px
+height: 100%;
+width: 100%;
 }
 
 #header {
@@ -16,36 +17,40 @@ letter-spacing: 3px;
 }
 
 
-#ochresky {
+#OchreSky {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
+width: 100%;
+max-width: 50%;
 }
 
 #ochreskyinfo {
 position: absolute;
 width: 500px;
 left: 752px;
-bottom: 37px;
+top: 670px;
 font-family: candara, sans-serif;
 color: black
 }
 
-#ochreskywall {
+#OchreSkyWall {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 795px
+padding-left: 811px;
+width: 100%;
+max-width: 38%;
 }
 
 #ochreskywallbio {
 position: absolute;
-top: 46%;
-right: 550px;
-width: 700px;
+top: 980px;
+right: 582px;
+width: 670px;
 height: 500px;
 font-size: 17;
 font-family: Aboreto, "Times New Roman", georgia;
@@ -57,13 +62,15 @@ position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
+width: 100%;
+max-width: 41.5%;
 }
 
 #GouganeBarrainfo {
 position: absolute;
 width: 500px;
-left: 625px;
-bottom: 37px;
+left: 630px;
+top: 1595px;
 font-family: candara, sans-serif;
 color: black
 }
@@ -74,13 +81,15 @@ padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 822px
+padding-left: 846px;
+width: 100%;
+max-width: 35.5%;
 }
 
 #GouganeBarrabio {
 position: absolute;
-top: 46%;
-right: 550px;
+top: 1950px;
+right: 570px;
 width: 700px;
 height: 500px;
 font-size: 17;
@@ -90,16 +99,18 @@ color: #FFE8AB
 
 #TheLough {
 position: relative;
-padding: 25px;
+padding: 18px;
 background-color: #546875;
 float: left;
+width: 100%;
+max-width: 41%;
 }
 
 #TheLoughinfo {
 position: absolute;
 width: 500px;
-left: 612px;
-bottom: 37px;
+left: 623px;
+top: 2545px;
 font-family: candara, sans-serif;
 color: black
 }
@@ -110,15 +121,17 @@ padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 811px
+padding-left: 811px;
+width: 100%;
+max-width: 40%;
 }
 
 #TheLoughbio {
 position: absolute;
-top: 46%;
-right: 550px;
-width: 700px;
-height: 100px;
+top: 2882px;
+right: 620px;
+width: 640px;
+height: 0px;
 font-size: 17;
 font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB
@@ -130,7 +143,7 @@ color: #FFE8AB
 position: relative;
 clear: both;
 text-align: center;
-font-size: 25;
+font-size: 25px;
 color: #FFE8AB;
 background-color: #829BB9;
 padding: 10px;
@@ -146,13 +159,13 @@ text-decoration: none;
 position: relative;
 background-color: #829BB9;
 height: 100px;
-width: 1333px
+width: 100%;
 }
 
 #footerleft {
 position: absolute;
 left: 100px;
-font-size: 17;
+font-size: 17px;
 font-family: candara, sans-serif;
 bottom: 50%
 }
@@ -160,7 +173,7 @@ bottom: 50%
 #footerright {
 position: absolute;
 right: 100px;
-font-size: 17;
+font-size: 17px;
 font-family: candara, sans-serif;
 bottom: 50%
 }
