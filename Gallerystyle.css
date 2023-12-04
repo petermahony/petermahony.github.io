@@ -192,10 +192,11 @@ color: black
 }
 
 @media (max-width: 360px) {
-	
+
 #all {
 background-color: #A4BECF;
 width: 360px;
+height: 1262px;
 }
 
 #header {
@@ -366,7 +367,7 @@ text-decoration: none;
 
 #footer {
 position: relative;
-bottom: 145px;
+bottom: 146px;
 height: 74px;
 width: 360px;
 background-color: #829BB9;
