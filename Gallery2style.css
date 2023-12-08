@@ -16,14 +16,17 @@ font-size: 25px;
 letter-spacing: 3px;
 }
 
+#headertext {
+color: white;
+text-decoration: none;
+}
 
 #OchreSky {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
-width: 100%;
-max-width: 50%;
+width: 50%;
 }
 
 #ochreskyinfo {
@@ -44,8 +47,7 @@ background-color: #546875;
 float: right;
 clear: left;
 padding-left: 811px;
-width: 100%;
-max-width: 38%;
+width: 38%;
 }
 
 #ochreskywallbio {
@@ -65,8 +67,7 @@ position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
-width: 100%;
-max-width: 41.5%;
+width: 41.5%;
 }
 
 #GouganeBarrainfo {
@@ -87,8 +88,7 @@ background-color: #546875;
 float: right;
 clear: left;
 padding-left: 846px;
-width: 100%;
-max-width: 35.5%;
+width: 35.5%;
 }
 
 #GouganeBarrabio {
@@ -108,8 +108,7 @@ position: relative;
 padding: 18px;
 background-color: #546875;
 float: left;
-width: 100%;
-max-width: 41%;
+width: 41%;
 }
 
 #TheLoughinfo {
@@ -130,8 +129,7 @@ background-color: #546875;
 float: right;
 clear: left;
 padding-left: 811px;
-width: 100%;
-max-width: 40%;
+width: 40%;
 }
 
 #TheLoughbio {
@@ -213,8 +211,7 @@ position: relative;
 float: left;
 padding: 10px;
 background-color: #546875;
-width: 100%;
-max-width: 55%;
+width: 55%;
 }
 
 #ochreskyinfo {
@@ -235,8 +232,7 @@ background-color: #546875;
 float: right;
 clear: left;
 padding-left: 811px;
-width: 100%;
-max-width: 38%;
+width: 38%;
 }
 
 #ochreskywallbio {
@@ -256,8 +252,7 @@ position: relative;
 padding: 10px;
 background-color: #546875;
 float: left;
-width: 100%;
-max-width: 50%;
+width: 50%;
 }
 
 #GouganeBarrainfo {
@@ -278,8 +273,7 @@ background-color: #546875;
 float: right;
 clear: left;
 padding-left: 846px;
-width: 100%;
-max-width: 35.5%;
+width: 35.5%;
 }
 
 #GouganeBarrabio {
@@ -299,8 +293,7 @@ position: relative;
 padding: 10px;
 background-color: #546875;
 float: left;
-width: 100%;
-max-width: 50%;
+width: 50%;
 }
 
 #TheLoughinfo {
@@ -321,8 +314,7 @@ background-color: #546875;
 float: right;
 clear: left;
 padding-left: 811px;
-width: 100%;
-max-width: 40%;
+width: 40%;
 }
 
 #TheLoughbio {
