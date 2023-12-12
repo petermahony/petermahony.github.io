@@ -1,0 +1,73 @@
+#all {
+background-color: #A4BECF;
+
+width: 100%;
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 180px;
+padding-top: 65px;
+padding-bottom: 65px;
+font-size: 25px;
+letter-spacing: 3px;
+}
+
+#FarranWood {
+position: relative;
+padding: 25px;
+background-color: #546875;
+
+width: 100%;
+max-width: 47%;
+}
+
+#SummerEvening {
+position: relative;
+clear: left;
+padding: 25px;
+background-color: #546875;
+float: left;
+width: 100%;
+max-width: 50%;
+bottom: 4px;
+}
+
+#FrostyWalk {
+position: relative;
+clear: left;
+padding: 25px;
+background-color: #546875;
+float: left;
+width: 100%;
+max-width: 55%;
+bottom: 4px;
+}
+
+#footer {
+position: relative;
+background-color: #829BB9;
+height: 100px;
+width: 100%;
+clear: both;
+bottom: 4px;
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 17px;
+font-family: candara, sans-serif;
+bottom: 50%
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 17px;
+font-family: candara, sans-serif;
+bottom: 50%
+}

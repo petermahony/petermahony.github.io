@@ -1,0 +1,40 @@
+#all {
+background-color: #A4BECF;
+height: 100%;
+width: 100%;
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 180px;
+padding-top: 65px;
+padding-bottom: 65px;
+font-size: 25px;
+letter-spacing: 3px;
+}
+
+#footer {
+position: relative;
+background-color: #829BB9;
+height: 100px;
+width: 100%;
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 17px;
+font-family: candara, sans-serif;
+bottom: 50%
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 17px;
+font-family: candara, sans-serif;
+bottom: 50%
+}
