@@ -24,9 +24,7 @@ background-color:#546875;
 } 
 
 #FW {
-width: 100%;
-max-width: 61%;
-height: auto;
+width: 61%;
 }
 
 #welcome {
@@ -62,11 +60,20 @@ font-size: 30px;
 color: #FFE8AB 
 }
 
-#portfolio {
+#Prints {
 color: #FFE8AB;
 text-decoration: underline;
 }
 
+#Commissions {
+color: #FFE8AB;
+text-decoration: underline;
+}
+
+#Portfolio {
+color: #FFE8AB;
+text-decoration: underline;
+}
 
 #biotitle {
 font-family: Palatino, Aboreto, "Times New Roman", georgia;
@@ -143,7 +150,6 @@ padding: 10px;
 
 
 #FW {
-max-width: 100%;
 width: 80%;
 }
 
@@ -193,7 +199,7 @@ color: #FFE8AB;
 max-width: 360px;
 width: 330px;
 padding: 15px;
-bottom-padding: 10px;
+padding-bottom: 10px;
 }
 
 #footer {
