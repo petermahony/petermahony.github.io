@@ -52,7 +52,6 @@ width: 31.5%;
 }
 
 #galFarranbio {
-display: none;
 position: relative;
 float: left;
 bottom: 285px;
@@ -95,7 +94,6 @@ width: 33.5%;
 }
 
 #galsebio {
-display: none;
 position: relative;
 float: left;
 bottom: 240px;
@@ -137,7 +135,6 @@ width: 35%;
 }
 
 #frostybio {
-display: none;
 position: relative;
 float: left;
 bottom: 200px;
