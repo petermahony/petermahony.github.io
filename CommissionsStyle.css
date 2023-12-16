@@ -1,5 +1,5 @@
 #all {
-background-color: #A4BECF;
+background-color: #546875;
 height: 100%;
 width: 100%;
 }
@@ -16,11 +16,86 @@ font-size: 25px;
 letter-spacing: 3px;
 }
 
+#headertext {
+color: white;
+text-decoration: none;
+}
+
+#TRPheading {
+position: relative;
+text-align: center;
+padding: 25px;
+background-color:#546875;
+} 
+
+#TRP {
+width: 50%;
+}
+
+#Commissions {
+text-align: center;
+font-size: 34px;
+padding: 10px;
+padding-bottom: 20px;
+color: #FFE8AB;
+background-color:#546875;
+}
+
+#commish {
+width: 70%;
+padding-left: 157px;
+font-size: 20px;
+color: #FFE8AB;
+background-color:#546875;
+clear: both;
+}
+
+#TRPsketch {
+width: 40%;
+float: right;
+padding: 15px;
+margin: 10px 0 10px 10px;
+background-color: #A4BECF;
+}
+
+#TRPoilsketch {
+width: 40%;
+float: left;
+padding: 15px;
+margin: 20px 15px 20px 0;
+background-color: #A4BECF;
+}
+
+#TRPprogress {
+width: 40%;
+float: right;
+padding: 15px;
+margin: 20px 0 31px 10px;
+background-color: #A4BECF;
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 25px;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline
+}
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
+}
+
 #footer {
 position: relative;
-background-color: #829BB9;
 height: 100px;
 width: 100%;
+clear: both;
+background-color: #829BB9;
 }
 
 #footerleft {
@@ -60,6 +135,26 @@ width: 340px;
 padding: 10px;
 }
 
+#TRPheading {
+position: relative;
+text-align: center;
+padding: 25px;
+background-color:#546875;
+} 
+
+#TRP {
+width: 80%;
+}
+
+#Commissions {
+text-align: center;
+font-size: 31px;
+padding: 10px;
+padding-bottom: 20px;
+color: #FFE8AB;
+background-color:#546875;
+}
+
 #footer {
 position: relative;
 background-color: #829BB9;
@@ -85,4 +180,3 @@ bottom: 55%
 }
 
 }
-
