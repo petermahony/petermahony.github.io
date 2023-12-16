@@ -1,6 +1,6 @@
 #all {
-background-color: #A4BECF;
-
+background-color: #546875;
+height: 100%;
 width: 100%;
 }
 
@@ -16,13 +16,100 @@ font-size: 25px;
 letter-spacing: 3px;
 }
 
+#headertext {
+color: white;
+text-decoration: none;
+}
+
+#PrintsTitle {
+text-align: center;
+font-size: 34px;
+padding: 40px 0 40px 0;
+color: #FFE8AB;
+background-color:#546875;
+}
+
+#printcon2 {
+display: none;
+}
+
+#printcon {
+width: 67%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#section1 {
+float: left;
+font-size: 20px;
+color: #FFE8AB;
+}
+
+#section2 {
+float: left;
+font-size: 20px;
+color: #FFE8AB;
+}
+
+#section3 {
+float: left;
+font-size: 20px;
+color: #FFE8AB;
+margin-bottom: 50px;
+}
+
+#printish2 {
+display: none;
+}
+
+#Prints {
+width: 40%;
+float: left;
+padding: 15px;
+margin-right: 20px;
+background-color: #A4BECF;
+}
+
+#PrintMounts{
+width: 40%;
+float: right;
+padding: 15px;
+margin-left: 20px;
+clear: both;
+background-color: #A4BECF;
+}
+
+#Postcards{
+width: 40%;
+float: left;
+padding: 15px;
+margin-right: 20px;
+clear: both;
+background-color: #A4BECF;
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 25px;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline;
+}
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
+}
+
 #footer {
 position: relative;
 background-color: #829BB9;
 height: 100px;
 width: 100%;
 clear: both;
-bottom: 4px;
 }
 
 #footerleft {
@@ -44,7 +131,7 @@ bottom: 50%
 @media (max-width: 360px) {
 
 #all {
-background-color: #A4BECF;
+background-color: #546875;
 height: 100%;
 width: 100%;
 margin: 0;
@@ -60,6 +147,87 @@ font-size: 20px;
 letter-spacing: 3px;
 width: 340px;
 padding: 10px;
+}
+
+#PrintsTitle {
+text-align: center;
+font-size: 34px;
+padding: 40px 0 40px 0;
+color: #FFE8AB;
+background-color:#546875;
+}
+
+#printcon {
+display: none;
+}
+
+#printcon2 {
+display: block;
+width: 85%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#section1 {
+float: left;
+font-size: 20px;
+color: #FFE8AB;
+}
+
+#section2 {
+float: right;
+font-size: 20px;
+color: #FFE8AB;
+}
+
+#section3 {
+float: left;
+font-size: 20px;
+color: #FFE8AB;
+margin-bottom: 50px;
+}
+
+#Prints {
+width: 40%;
+float: left;
+padding: 10px;
+margin-right: 20px;
+background-color: #A4BECF;
+}
+
+#PrintMounts{
+width: 40%;
+float: right;
+padding: 10px;
+margin-left: 20px;
+clear: both;
+background-color: #A4BECF;
+}
+
+#Postcards{
+width: 46%;
+float: left;
+padding: 10px;
+margin-top: 20px;
+margin-right: 20px;
+clear: both;
+background-color: #A4BECF;
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 20px;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline
+}
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
 }
 
 #footer {
@@ -83,8 +251,7 @@ position: absolute;
 right: 100px;
 font-size: 12px;
 font-family: candara, sans-serif;
-bottom: 55%
+bottom: 55%;
 }
 
 }
-
