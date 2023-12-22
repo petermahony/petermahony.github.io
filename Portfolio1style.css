@@ -1,7 +1,7 @@
 #all {
 background-color: #A4BECF;
-height: 100%;
 width: 100%;
+height: 100%;
 }
 
 #header {
@@ -21,40 +21,41 @@ color: white;
 text-decoration: none;
 }
 
-#OchreSky {
+#FarranWood {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
-width: 50%;
+width: 47%;
 }
 
-#ochreskyinfo {
+
+#galFarranWoodinfo {
 position: relative;
 float: right;
-top: 355px;
-right: 470px;
-width: 125px;
+top: 425px;
+right: 492px;
+width: 150px;
 font-size: 17px;
 font-family: candara, sans-serif;
 color: black
 }
 
-#OchreSkyWall {
+#Farranframed {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 811px;
-width: 38%;
+padding-left: 905px;
+width: 31.5%;
 }
 
-#ochreskywallbio {
+#galFarranbio {
 position: relative;
 float: left;
-bottom: 231px;
-left: 70px;
+bottom: 285px;
+left: 107px;
 width: 700px;
 height: 0px;
 font-size: 17px;
@@ -62,81 +63,82 @@ font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB
 }
 
-#GouganeBarra {
+
+#SummerEvening {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: left;
-width: 41.5%;
+width: 45%;
 }
 
-#GouganeBarrainfo {
+#galsummereveninginfo {
+position: relative;
+float: right;
+top: 415px;
+width: 500px;
+right: 170px;
+font-size: 17px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#SummerEveningframed {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 872px;
+width: 33.5%;
+}
+
+#galsebio {
+position: relative;
+float: left;
+bottom: 240px;
+left: 100px;
+width: 700px;
+height: 0px;
+font-size: 17px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB 
+}
+
+#FrostyWalk {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: left;
+width: 55%;
+}
+
+#FrostyWalkinfo {
 position: relative;
 float: right;
 top: 370px;
-right: 550px;
-width: 150px;
+right: 406px;
+width: 124px;
 font-size: 17px;
 font-family: candara, sans-serif;
 color: black
 }
 
-#GouganeBarraframed {
+#FrostyEasel {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 846px;
-width: 35.5%;
+padding-left: 853px;
+width: 35%;
 }
 
-#GouganeBarrabio {
+#frostybio {
 position: relative;
 float: left;
-bottom: 225px;
-left: 70px;
-width: 700px;
-height: 0px;
-font-size: 17px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#TheLough {
-position: relative;
-padding: 18px;
-background-color: #546875;
-float: left;
-width: 41%;
-}
-
-#TheLoughinfo {
-position: relative;
-float: right;
-top: 362px;
-right: 575px;
-width: 150px;
-font-size: 17px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#TheLoughframed {
-position: relative;
-padding: 25px;
-background-color: #546875;
-float: right;
-clear: left;
-padding-left: 811px;
-width: 40%;
-}
-
-#TheLoughbio {
-position: relative;
-float: left;
-bottom: 225px;
-left: 55px;
+bottom: 200px;
+left: 80px;
 width: 700px;
 height: 0px;
 font-size: 17px;
@@ -145,8 +147,7 @@ color: #FFE8AB
 }
 
 
-
-#Home {
+#page2 {
 position: relative;
 clear: both;
 text-align: center;
@@ -191,11 +192,11 @@ margin-top: 38px;
 display: none;
 }
 
+	
 #all {
-background-color: #A4BECF;
+background-color: #A4BECF; 
 height: 100%;
-width: 360px;
-margin: 0;
+width: 360px; 
 }
 
 #header {
@@ -210,20 +211,68 @@ width: 340px;
 padding: 10px;
 }
 
-#galochresky {
+#galFarran {
 display: inline-block;
-height: 204px;
+height: 244px;
 }
 
-#OchreSky {
+
+#FarranWood {
 position: relative;
-float: left;
 padding: 10px;
 background-color: #546875;
+float: left;
 width: 80%;
 }
 
-#ochreskyinfo {
+#galFarranWoodinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#Farranframed {
+position: relative;
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+background-color: #546875;
+}
+
+#galFarranbio {	
+display: none;
+position: relative;
+float: left;
+bottom: 285px;
+left: 107px;
+width: 0px;
+height: 0px;
+font-size: 0px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galsummerevening {
+display: inline-block;
+height: 227.4px;
+}
+
+#SummerEvening {
+position: relative;
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+background-color: #546875;
+}
+
+#galsummereveninginfo {
 position: relative;
 float: left;
 top: 40px;
@@ -234,50 +283,47 @@ font-family: candara, sans-serif;
 color: black;
 }
 
-#galochreskywall {
-display: inline-block;
-height: 140px;
-}
-
-
-#OchreSkyWall {
+#SummerEveningframed {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
+background-color: #546875;
 width: 47%;
 }
 
-#ochreskywallbio {
+#galsebio {
+display: none;	
 position: relative;
 float: left;
-bottom: 80px;
-left: 34px;
-width: 140px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB; 
 }
 
-#galGouganeBarra {
+#galFrostyWalk {
 display: inline-block;
-height: 248px;
+height: 208px;
 }
 
-#GouganeBarra {
+#FrostyWalk {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: left;
+clear: right;
 width: 80%;
+background-color: #546875;
 }
 
-#GouganeBarrainfo {
+#FrostyWalkinfo {
 position: relative;
 float: left;
-top: 40px;
+clear: right;
+top: 31px;
 left: 40px;
 width: 110px;
 font-size: 14px;
@@ -285,79 +331,29 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#galGouganeBarraframed {
-display: inline-block;
-height: 148px;
-}
-
-#GouganeBarraframed {
+#FrostyEasel { 
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
-width: 47%;
-}
-
-#GouganeBarrabio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 20px;
-width: 180px;
-height: 0px;
-font-size: 8px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#galTheLough {
-display: inline-block;
-height: 253px;
-}
-
-
-#TheLough {
-position: relative;
-padding: 10px;
+width: 49%;
 background-color: #546875;
-float: left;
-width: 80%;
 }
 
-#TheLoughinfo {
+#frostybio {
+display: none;	
 position: relative;
 float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#TheLoughframed {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: right;
-clear: left;
-width: 50%;
-}
-
-#TheLoughbio {
-position: relative;
-float: left;
-bottom: 85px;
-left: 17px;
-width: 180px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB;
 }
 
-#Home {
+#page2 {
 position: relative;
 clear: both;
 text-align: center;
@@ -365,15 +361,13 @@ font-size: 20px;
 color: #FFE8AB;
 background-color: #829BB9;
 padding: 10px;
-text-decoration: underline
+text-decoration: underline;
 }
-
 
 #portfolio {
 color: #FFE8AB;
 text-decoration: none;
 }
-
 
 #footer2 {
 height: 100px;
@@ -391,7 +385,6 @@ font-size: 14px;
 margin-right: 5%;
 margin-top: 38px;
 }
-	
 }
 
 @media (max-width: 375px) {
@@ -400,11 +393,11 @@ margin-top: 38px;
 display: none;
 }
 
+	
 #all {
-background-color: #A4BECF;
+background-color: #A4BECF; 
 height: 100%;
-width: 375px;
-margin: 0;
+width: 375px; 
 }
 
 #header {
@@ -419,20 +412,68 @@ width: 355px;
 padding: 10px;
 }
 
-#galochresky {
+#galFarran {
 display: inline-block;
-height: 212.2px;
+height: 244px;
 }
 
-#OchreSky {
+
+#FarranWood {
 position: relative;
-float: left;
 padding: 10px;
 background-color: #546875;
+float: left;
 width: 80%;
 }
 
-#ochreskyinfo {
+#galFarranWoodinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#Farranframed {
+position: relative;
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+background-color: #546875;
+}
+
+#galFarranbio {	
+display: none;
+position: relative;
+float: left;
+bottom: 285px;
+left: 107px;
+width: 0px;
+height: 0px;
+font-size: 0px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galsummerevening {
+display: inline-block;
+height: 227.4px;
+}
+
+#SummerEvening {
+position: relative;
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+background-color: #546875;
+}
+
+#galsummereveninginfo {
 position: relative;
 float: left;
 top: 40px;
@@ -443,50 +484,47 @@ font-family: candara, sans-serif;
 color: black;
 }
 
-#galochreskywall {
-display: inline-block;
-height: 146.1px;
-}
-
-
-#OchreSkyWall {
+#SummerEveningframed {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
+background-color: #546875;
 width: 47%;
 }
 
-#ochreskywallbio {
+#galsebio {
+display: none;	
 position: relative;
 float: left;
-bottom: 80px;
-left: 34px;
-width: 140px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB; 
 }
 
-#galGouganeBarra {
+#galFrostyWalk {
 display: inline-block;
-height: 258.1px;
+height: 208px;
 }
 
-#GouganeBarra {
+#FrostyWalk {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: left;
+clear: right;
 width: 80%;
+background-color: #546875;
 }
 
-#GouganeBarrainfo {
+#FrostyWalkinfo {
 position: relative;
 float: left;
-top: 40px;
+clear: right;
+top: 31px;
 left: 40px;
 width: 110px;
 font-size: 14px;
@@ -494,79 +532,29 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#galGouganeBarraframed {
-display: inline-block;
-height: 154px;
-}
-
-#GouganeBarraframed {
+#FrostyEasel { 
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
-width: 47%;
-}
-
-#GouganeBarrabio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 20px;
-width: 180px;
-height: 0px;
-font-size: 8px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#galTheLough {
-display: inline-block;
-height: 265.1px;
-}
-
-
-#TheLough {
-position: relative;
-padding: 10px;
+width: 49%;
 background-color: #546875;
-float: left;
-width: 80%;
 }
 
-#TheLoughinfo {
+#frostybio {
+display: none;	
 position: relative;
 float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#TheLoughframed {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: right;
-clear: left;
-width: 50%;
-}
-
-#TheLoughbio {
-position: relative;
-float: left;
-bottom: 85px;
-left: 17px;
-width: 180px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB;
 }
 
-#Home {
+#page2 {
 position: relative;
 clear: both;
 text-align: center;
@@ -574,15 +562,13 @@ font-size: 20px;
 color: #FFE8AB;
 background-color: #829BB9;
 padding: 10px;
-text-decoration: underline
+text-decoration: underline;
 }
-
 
 #portfolio {
 color: #FFE8AB;
 text-decoration: none;
 }
-
 
 #footer2 {
 height: 100px;
@@ -600,7 +586,6 @@ font-size: 14px;
 margin-right: 5%;
 margin-top: 38px;
 }
-	
 }
 
 @media (max-width: 414px) {
@@ -609,11 +594,11 @@ margin-top: 38px;
 display: none;
 }
 
+	
 #all {
-background-color: #A4BECF;
+background-color: #A4BECF; 
 height: 100%;
-width: 414px;
-margin: 0;
+width: 414px; 
 }
 
 #header {
@@ -628,20 +613,68 @@ width: 394px;
 padding: 10px;
 }
 
-#galochresky {
+#galFarran {
 display: inline-block;
-height: 234px;
+height: 277px;
 }
 
-#OchreSky {
+
+#FarranWood {
 position: relative;
-float: left;
 padding: 10px;
 background-color: #546875;
+float: left;
 width: 80%;
 }
 
-#ochreskyinfo {
+#galFarranWoodinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#Farranframed {
+position: relative;
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+background-color: #546875;
+}
+
+#galFarranbio {	
+display: none;
+position: relative;
+float: left;
+bottom: 285px;
+left: 107px;
+width: 0px;
+height: 0px;
+font-size: 0px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galsummerevening {
+display: inline-block;
+height: 257px;
+}
+
+#SummerEvening {
+position: relative;
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+background-color: #546875;
+}
+
+#galsummereveninginfo {
 position: relative;
 float: left;
 top: 40px;
@@ -652,50 +685,47 @@ font-family: candara, sans-serif;
 color: black;
 }
 
-#galochreskywall {
-display: inline-block;
-height: 160.1px;
-}
-
-
-#OchreSkyWall {
+#SummerEveningframed {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
+background-color: #546875;
 width: 47%;
 }
 
-#ochreskywallbio {
+#galsebio {
+display: none;	
 position: relative;
 float: left;
-bottom: 80px;
-left: 34px;
-width: 140px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB; 
 }
 
-#galGouganeBarra {
+#galFrostyWalk {
 display: inline-block;
-height: 284px;
+height: 235.5px;
 }
 
-#GouganeBarra {
+#FrostyWalk {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: left;
+clear: right;
 width: 80%;
+background-color: #546875;
 }
 
-#GouganeBarrainfo {
+#FrostyWalkinfo {
 position: relative;
 float: left;
-top: 40px;
+clear: right;
+top: 31px;
 left: 40px;
 width: 110px;
 font-size: 14px;
@@ -703,79 +733,29 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#galGouganeBarraframed {
-display: inline-block;
-height: 167px;
-}
-
-#GouganeBarraframed {
+#FrostyEasel { 
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
-width: 47%;
-}
-
-#GouganeBarrabio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 20px;
-width: 180px;
-height: 0px;
-font-size: 8px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#galTheLough {
-display: inline-block;
-height: 290.2px;
-}
-
-
-#TheLough {
-position: relative;
-padding: 10px;
+width: 49%;
 background-color: #546875;
-float: left;
-width: 80%;
 }
 
-#TheLoughinfo {
+#frostybio {
+display: none;	
 position: relative;
 float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#TheLoughframed {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: right;
-clear: left;
-width: 50%;
-}
-
-#TheLoughbio {
-position: relative;
-float: left;
-bottom: 85px;
-left: 17px;
-width: 180px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB;
 }
 
-#Home {
+#page2 {
 position: relative;
 clear: both;
 text-align: center;
@@ -783,15 +763,13 @@ font-size: 20px;
 color: #FFE8AB;
 background-color: #829BB9;
 padding: 10px;
-text-decoration: underline
+text-decoration: underline;
 }
-
 
 #portfolio {
 color: #FFE8AB;
 text-decoration: none;
 }
-
 
 #footer2 {
 height: 100px;
@@ -809,7 +787,6 @@ font-size: 14px;
 margin-right: 5%;
 margin-top: 38px;
 }
-	
 }
 
 @media (max-width: 480px) {
@@ -818,11 +795,11 @@ margin-top: 38px;
 display: none;
 }
 
+	
 #all {
-background-color: #A4BECF;
+background-color: #A4BECF; 
 height: 100%;
-width: 480px;
-margin: 0;
+width: 480px; 
 }
 
 #header {
@@ -837,22 +814,71 @@ width: 460px;
 padding: 10px;
 }
 
-#galochresky {
+#galFarran {
 display: inline-block;
-height: 269.1px;
+height: 320.1px;
 }
 
-#OchreSky {
+
+#FarranWood {
 position: relative;
-float: left;
 padding: 10px;
 background-color: #546875;
+float: left;
 width: 80%;
 }
 
-#ochreskyinfo {
+#galFarranWoodinfo {
 position: relative;
 float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#Farranframed {
+position: relative;
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+background-color: #546875;
+}
+
+#galFarranbio {	
+display: none;
+position: relative;
+float: left;
+bottom: 285px;
+left: 107px;
+width: 0px;
+height: 0px;
+font-size: 0px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galsummerevening {
+display: inline-block;
+height: 295px;
+}
+
+#SummerEvening {
+position: relative;
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+background-color: #546875;
+}
+
+#galsummereveninginfo {
+position: relative;
+float: left;
+clear: both;
 top: 40px;
 left: 40px;
 width: 110px;
@@ -861,50 +887,47 @@ font-family: candara, sans-serif;
 color: black;
 }
 
-#galochreskywall {
-display: inline-block;
-height: 183px;
-}
-
-
-#OchreSkyWall {
+#SummerEveningframed {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
+background-color: #546875;
 width: 47%;
 }
 
-#ochreskywallbio {
+#galsebio {
+display: none;	
 position: relative;
 float: left;
-bottom: 80px;
-left: 34px;
-width: 140px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB; 
 }
 
-#galGouganeBarra {
+#galFrostyWalk {
 display: inline-block;
-height: 325px;
+height: 272.2px;
 }
 
-#GouganeBarra {
+#FrostyWalk {
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: left;
+clear: right;
 width: 80%;
+background-color: #546875;
 }
 
-#GouganeBarrainfo {
+#FrostyWalkinfo {
 position: relative;
 float: left;
-top: 40px;
+clear: right;
+top: 31px;
 left: 40px;
 width: 110px;
 font-size: 14px;
@@ -912,79 +935,29 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#galGouganeBarraframed {
-display: inline-block;
-height: 192px;
-}
-
-#GouganeBarraframed {
+#FrostyEasel { 
 position: relative;
 padding: 10px;
-background-color: #546875;
 float: right;
 clear: left;
-width: 47%;
-}
-
-#GouganeBarrabio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 20px;
-width: 180px;
-height: 0px;
-font-size: 8px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#galTheLough {
-display: inline-block;
-height: 334px;
-}
-
-
-#TheLough {
-position: relative;
-padding: 10px;
+width: 49%;
 background-color: #546875;
-float: left;
-width: 80%;
 }
 
-#TheLoughinfo {
+#frostybio {
+display: none;	
 position: relative;
 float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#TheLoughframed {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: right;
-clear: left;
-width: 50%;
-}
-
-#TheLoughbio {
-position: relative;
-float: left;
-bottom: 85px;
-left: 17px;
-width: 180px;
+bottom: 0px;
+left: 0px;
+width: 0px;
 height: 0px;
-font-size: 8px;
+font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFE8AB;
 }
 
-#Home {
+#page2 {
 position: relative;
 clear: both;
 text-align: center;
@@ -992,9 +965,8 @@ font-size: 20px;
 color: #FFE8AB;
 background-color: #829BB9;
 padding: 10px;
-text-decoration: underline
+text-decoration: underline;
 }
-
 
 #portfolio {
 color: #FFE8AB;
@@ -1017,5 +989,4 @@ font-size: 14px;
 margin-right: 5%;
 margin-top: 38px;
 }
-	
 }
