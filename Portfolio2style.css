@@ -400,3 +400,651 @@ bottom: 64%;
 }
 	
 }
+
+@media (max-width: 375px) {
+	
+.biotext {
+display: none;
+}
+
+#all {
+background-color: #A4BECF;
+height: 100%;
+width: 375px;
+margin: 0;
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 355px;
+padding: 10px;
+}
+
+#galochresky {
+display: inline-block;
+height: 212.2px;
+}
+
+#OchreSky {
+position: relative;
+float: left;
+padding: 10px;
+background-color: #546875;
+width: 80%;
+}
+
+#ochreskyinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black;
+}
+
+#galochreskywall {
+display: inline-block;
+height: 146.1px;
+}
+
+
+#OchreSkyWall {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#ochreskywallbio {
+position: relative;
+float: left;
+bottom: 80px;
+left: 34px;
+width: 140px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galGouganeBarra {
+display: inline-block;
+height: 258.1px;
+}
+
+#GouganeBarra {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: left;
+width: 80%;
+}
+
+#GouganeBarrainfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#galGouganeBarraframed {
+display: inline-block;
+height: 154px;
+}
+
+#GouganeBarraframed {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#GouganeBarrabio {
+position: relative;
+float: left;
+bottom: 80px;
+left: 20px;
+width: 180px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galTheLough {
+display: inline-block;
+height: 265.1px;
+}
+
+
+#TheLough {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: left;
+width: 80%;
+}
+
+#TheLoughinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#TheLoughframed {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 50%;
+}
+
+#TheLoughbio {
+position: relative;
+float: left;
+bottom: 85px;
+left: 17px;
+width: 180px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 20px;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline
+}
+
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
+}
+
+
+#footer {
+position: relative;
+background-color: #829BB9;
+height: 74px;
+width: 375px;
+
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 34%;
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 64%;
+}
+	
+}
+
+@media (max-width: 414px) {
+	
+.biotext {
+display: none;
+}
+
+#all {
+background-color: #A4BECF;
+height: 100%;
+width: 414px;
+margin: 0;
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 394px;
+padding: 10px;
+}
+
+#galochresky {
+display: inline-block;
+height: 234px;
+}
+
+#OchreSky {
+position: relative;
+float: left;
+padding: 10px;
+background-color: #546875;
+width: 80%;
+}
+
+#ochreskyinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black;
+}
+
+#galochreskywall {
+display: inline-block;
+height: 160.1px;
+}
+
+
+#OchreSkyWall {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#ochreskywallbio {
+position: relative;
+float: left;
+bottom: 80px;
+left: 34px;
+width: 140px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galGouganeBarra {
+display: inline-block;
+height: 284px;
+}
+
+#GouganeBarra {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: left;
+width: 80%;
+}
+
+#GouganeBarrainfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#galGouganeBarraframed {
+display: inline-block;
+height: 167px;
+}
+
+#GouganeBarraframed {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#GouganeBarrabio {
+position: relative;
+float: left;
+bottom: 80px;
+left: 20px;
+width: 180px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galTheLough {
+display: inline-block;
+height: 290.2px;
+}
+
+
+#TheLough {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: left;
+width: 80%;
+}
+
+#TheLoughinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#TheLoughframed {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 50%;
+}
+
+#TheLoughbio {
+position: relative;
+float: left;
+bottom: 85px;
+left: 17px;
+width: 180px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 20px;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline
+}
+
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
+}
+
+
+#footer {
+position: relative;
+background-color: #829BB9;
+height: 74px;
+width: 414px;
+
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 34%;
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 64%;
+}
+	
+}
+
+@media (max-width: 480px) {
+	
+.biotext {
+display: none;
+}
+
+#all {
+background-color: #A4BECF;
+height: 100%;
+width: 480px;
+margin: 0;
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 460px;
+padding: 10px;
+}
+
+#galochresky {
+display: inline-block;
+height: 269.1px;
+}
+
+#OchreSky {
+position: relative;
+float: left;
+padding: 10px;
+background-color: #546875;
+width: 80%;
+}
+
+#ochreskyinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black;
+}
+
+#galochreskywall {
+display: inline-block;
+height: 183px;
+}
+
+
+#OchreSkyWall {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#ochreskywallbio {
+position: relative;
+float: left;
+bottom: 80px;
+left: 34px;
+width: 140px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galGouganeBarra {
+display: inline-block;
+height: 325px;
+}
+
+#GouganeBarra {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: left;
+width: 80%;
+}
+
+#GouganeBarrainfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#galGouganeBarraframed {
+display: inline-block;
+height: 192px;
+}
+
+#GouganeBarraframed {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#GouganeBarrabio {
+position: relative;
+float: left;
+bottom: 80px;
+left: 20px;
+width: 180px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#galTheLough {
+display: inline-block;
+height: 334px;
+}
+
+
+#TheLough {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: left;
+width: 80%;
+}
+
+#TheLoughinfo {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#TheLoughframed {
+position: relative;
+padding: 10px;
+background-color: #546875;
+float: right;
+clear: left;
+width: 50%;
+}
+
+#TheLoughbio {
+position: relative;
+float: left;
+bottom: 85px;
+left: 17px;
+width: 180px;
+height: 0px;
+font-size: 8px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 20px;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline
+}
+
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
+}
+
+
+#footer {
+position: relative;
+background-color: #829BB9;
+height: 74px;
+width: 480px;
+
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 34%;
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 64%;
+}
+	
+}
