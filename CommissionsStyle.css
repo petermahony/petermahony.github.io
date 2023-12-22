@@ -38,7 +38,7 @@ font-size: 34px;
 padding: 10px;
 padding-bottom: 20px;
 color: #FFE8AB;
-background-color:#546875;
+background-color: #829BB9;
 }
 
 #commish {
@@ -192,12 +192,23 @@ margin: 20px 0 31px 10px;
 background-color: #A4BECF;
 }
 
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+font-size: 20px;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+height: 40px;
+text-decoration: underline
+}
+
 #footer {
 position: relative;
 background-color: #829BB9;
 height: 100px;
 width: 360px;
-
 }
 
 #footerleft {
@@ -215,5 +226,230 @@ font-size: 12px;
 font-family: candara, sans-serif;
 bottom: 55%
 }
+}
 
+@media (max-width: 375px) {
+	
+#all {
+background-color: #546875;
+height: 100%;
+width: 100%;
+margin: 0;
+}
+
+#header {
+background-color: #829BB9;
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 355px;
+padding: 10px;
+}
+
+#TRPheading {
+position: relative;
+text-align: center;
+padding: 25px;
+background-color:#546875;
+} 
+
+#TRP {
+width: 80%; 
+}
+
+#Commissions {
+text-align: center;
+font-size: 31px;
+padding: 10px;
+padding-bottom: 20px;
+color: #FFE8AB;
+background-color: #546875;
+}
+
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 20px;
+padding-left: 0;
+color: #FFE8AB;
+background-color: #546875;
+clear: both;
+margin-bottom: 25px;
+}
+
+#footer {
+position: relative;
+height: 74px;
+width: 375px;
+background-color: #829BB9;
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 34%;
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 64%;
+}
+}
+
+@media (max-width: 414px) {
+	
+#all {
+height: 100%;
+width: 100%;
+margin: 0;
+}
+
+#header {
+color: white; 
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 394px;
+padding: 10px;
+}
+
+#TRPheading {
+position: relative;
+text-align: center;
+padding: 25px;
+background-color:#546875;
+} 
+
+#TRP {
+width: 80%; 
+}
+
+#Commissions {
+text-align: center;
+font-size: 31px;
+padding: 10px;
+padding-bottom: 20px;
+color: #FFE8AB;
+background-color: #546875;
+}
+
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 20px;
+padding-left: 0;
+color: #FFE8AB;
+background-color: #546875;
+clear: both;
+margin-bottom: 25px;
+}
+
+#footer {
+position: relative;
+height: 74px;
+width: 414px;
+background-color: #829BB9;
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 34%;
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 64%;
+}
+}
+
+@media (max-width: 480px) {
+	
+#all {
+height: 100%;
+width: 100%;
+margin: 0;
+}
+
+#header {
+text-align: center;
+font-family: Aboreto, "Times New Roman", georgia;
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 460px;
+padding: 10px;
+}
+
+#TRPheading {
+position: relative;
+text-align: center;
+padding: 25px;
+background-color:#546875;
+} 
+
+#TRP {
+width: 80%; 
+}
+
+#Commissions {
+text-align: center;
+font-size: 31px;
+padding: 10px;
+padding-bottom: 20px;
+color: #FFE8AB;
+background-color: #546875;
+}
+
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 20px;
+padding-left: 0;
+clear: both;
+margin-bottom: 25px;
+}
+
+#footer {
+position: relative;
+height: 74px;
+width: 480px;
+}
+
+#footerleft {
+position: absolute;
+left: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 34%;
+}
+
+#footerright {
+position: absolute;
+right: 100px;
+font-size: 12px;
+font-family: candara, sans-serif;
+bottom: 64%;
+}
 }
