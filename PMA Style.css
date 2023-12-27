@@ -91,30 +91,6 @@ color: #FFE8AB;
 min-width: 300px
 }
 
-#footer {
-display: none;
-position: relative;
-background-color: #829BB9;
-height: 100px;
-width: 100%;
-}
-
-#footerleft {
-position: absolute;
-left: 100px;
-font-size: 17px;
-font-family: candara, sans-serif;
-bottom: 50%
-}
-
-#footerright {
-position: absolute;
-right: 100px;
-font-size: 17px;
-font-family: candara, sans-serif;
-bottom: 50%
-}
-
 #footer2 {
 position: relative;
 background-color: #829BB9;
@@ -146,17 +122,12 @@ text-decoration: underline;
 @media (max-width: 360px) {
 
 #all {
-background-color: #A4BECF;
 height: 100%;
 width: 100%;
 margin: 0;
 }
 
 #header {
-background-color: #829BB9;
-color: white; 
-text-align: center;
-font-family: Aboreto, "Times New Roman", georgia;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
@@ -166,8 +137,6 @@ padding: 10px;
 
 
 #FrostyWalkheading {
-position: relative;
-background-color:#546875;
 width: 340px;
 padding: 10px;
 } 
@@ -178,94 +147,54 @@ width: 92%;
 }
 
 #welcome {
-position: relative;
-text-align: center;
 bottom: 170px; 
-font-size: 20px;
+font-size: 25px;
 letter-spacing: 5px;
-color: #FFE8AB 
 }
 
 #bottom-left {
-position: absolute;
 left: 50px;
 bottom: 92px; 
 font-size: 15px;
-color: #FFE8AB 
 }
 
 #bottom-right {
-position: absolute;
 right: 50px;
 bottom: 92px; 
 font-size: 15px;
-color: #FFE8AB 
 }
 
 #centered {
-position: absolute;
 left: 48%;
 bottom: 92px; 
 font-size: 15px;
-color: #FFE8AB 
 }
 
 #biotitle {
-font-family: Palatino, Aboreto, "Times New Roman", georgia;
 font-size: 20px;
 }
 
 #mybio {
-font-family: Aboreto, "Times New Roman", georgia;
-background-color: #546875;
 font-size: 14px;
-color: #FFE8AB;
 width: 330px;
 padding: 15px;
 padding-bottom: 20px;
 }
 
-#footer {
-position: relative;
-background-color: #829BB9;
-height: 100px;
-width: 360px;
-
-}
-
-#footerleft {
-position: absolute;
-font-size: 12px;
-font-family: candara, sans-serif;
-bottom: 40%
-}
-
-#footerright {
-position: absolute;
-font-size: 12px;
-font-family: candara, sans-serif;
-bottom: 55%
-}
 
 #footer2 {
-position: relative;
-background-color: #829BB9;
 height: 100px;
 width: 480px;
 }
 
 #footerleft2 {
-display: inline-block;
 font-size: 14px;
-font-family: candara, sans-serif;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-float: right;
 font-size: 14px;
-font-family: candara, sans-serif;
 margin-right: 5%;
 margin-top: 38px;
 }
@@ -275,17 +204,12 @@ margin-top: 38px;
 @media (max-width: 375px) {
 
 #all {
-background-color: #A4BECF;
 height: 100%;
 width: 100%;
 margin: 0;
 }
 
 #header {
-background-color: #829BB9;
-color: white; 
-text-align: center;
-font-family: Aboreto, "Times New Roman", georgia;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
@@ -295,8 +219,6 @@ padding: 10px;
 
 
 #FrostyWalkheading {
-position: relative;
-background-color:#546875;
 width: 355px;
 padding: 10px;
 } 
@@ -307,92 +229,66 @@ width: 92%;
 }
 
 #welcome {
-position: relative;
-text-align: center;
 bottom: 170px; 
 font-size: 20px;
 letter-spacing: 5px;
-color: #FFE8AB 
 }
 
 #bottom-left {
-position: absolute;
 left: 50px;
 bottom: 92px; 
 font-size: 15px;
-color: #FFE8AB 
 }
 
 #bottom-right {
-position: absolute;
 right: 50px;
 bottom: 92px; 
 font-size: 15px;
-color: #FFE8AB 
 }
 
 #centered {
-position: absolute;
 left: 48%;
 bottom: 92px; 
 font-size: 15px;
-color: #FFE8AB 
 }
 
 #biotitle {
-font-family: Palatino, Aboreto, "Times New Roman", georgia;
 font-size: 20px;
 }
 
 #mybio {
-font-family: Aboreto, "Times New Roman", georgia;
-background-color: #546875;
 font-size: 14px;
-color: #FFE8AB;
 width: 345px;
 padding: 15px;
 }
 
-#footer {
-position: relative;
-background-color: #829BB9;
+#footer2 {
 height: 100px;
-width: 375px;
-
+width: 480px;
 }
 
-#footerleft {
-position: relative;
-
-font-size: 12px;
-font-family: candara, sans-serif;
-bottom: 40%
+#footerleft2 {
+font-size: 14px;
+margin-left: 5%;
+margin-top: 38px;
 }
 
-#footerright {
-position: relative;
-
-font-size: 12px;
-font-family: candara, sans-serif;
-bottom: 55%
+#footerright2 {
+font-size: 14px;
+margin-right: 5%;
+margin-top: 38px;
 }
-
 }
 
 @media (max-width: 414px) {
 
 #all {
-background-color: #A4BECF;
 height: 100%;
 width: 100%;
 margin: 0;
 }
 
 #header {
-background-color: #829BB9;
-color: white; 
-text-align: center;
-font-family: Aboreto, "Times New Roman", georgia;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
@@ -402,8 +298,6 @@ padding: 10px;
 
 
 #FrostyWalkheading {
-position: relative;
-background-color:#546875;
 width: 394px;
 padding: 10px;
 } 
@@ -414,92 +308,67 @@ width: 92%;
 }
 
 #welcome {
-position: relative;
-text-align: center;
 bottom: 170px; 
 font-size: 23px;
 letter-spacing: 5px;
-color: #FFE8AB 
 }
 
 #bottom-left {
-position: absolute;
 left: 50px;
 bottom: 92px; 
 font-size: 18px;
-color: #FFE8AB 
 }
 
 #bottom-right {
-position: absolute;
 right: 50px;
 bottom: 92px; 
 font-size: 18px;
-color: #FFE8AB 
 }
 
 #centered {
-position: absolute;
 left: 48%;
 bottom: 92px; 
 font-size: 18px;
-color: #FFE8AB 
 }
 
 #biotitle {
-font-family: Palatino, Aboreto, "Times New Roman", georgia;
 font-size: 23px;
 }
 
 #mybio {
-font-family: Aboreto, "Times New Roman", georgia;
-background-color: #546875;
 font-size: 17px;
-color: #FFE8AB;
 width: 384px;
 padding: 15px;
 }
 
-#footer {
-position: relative;
-background-color: #829BB9;
+
+#footer2 {
 height: 100px;
-width: 414px;
-
+width: 480px;
 }
 
-#footerleft {
-position: absolute;
-
-font-size: 15px;
-font-family: candara, sans-serif;
-bottom: 40%
+#footerleft2 {
+font-size: 14px;
+margin-left: 5%;
+margin-top: 38px;
 }
 
-#footerright {
-position: absolute;
-
-font-size: 15px;
-font-family: candara, sans-serif;
-bottom: 55%
+#footerright2 {
+font-size: 14px;
+margin-right: 5%;
+margin-top: 38px;
 }
-
 }
 
 @media (max-width: 480px) {
 
 #all {
-background-color: #A4BECF;
 height: 100%;
 width: 100%;
 margin: 0;
 }
 
 #header {
-background-color: #829BB9;
-color: white; 
-text-align: center;
-font-family: Aboreto, "Times New Roman", georgia;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
@@ -509,8 +378,6 @@ padding: 10px;
 
 
 #FrostyWalkheading {
-position: relative;
-background-color:#546875;
 width: 460px;
 padding: 10px;
 } 
@@ -521,74 +388,53 @@ width: 92%;
 }
 
 #welcome {
-position: relative;
-text-align: center;
 bottom: 180px; 
 font-size: 25px;
 letter-spacing: 5px;
-color: #FFE8AB 
 }
 
 #bottom-left {
-position: absolute;
 left: 50px;
 bottom: 92px; 
 font-size: 20px;
-color: #FFE8AB 
 }
 
 #bottom-right {
-position: absolute;
 right: 50px;
 bottom: 92px; 
 font-size: 20px;
-color: #FFE8AB 
 }
 
 #centered {
-position: absolute;
 left: 48%;
 bottom: 92px; 
 font-size: 20px;
-color: #FFE8AB 
 }
 
 #biotitle {
-font-family: Palatino, Aboreto, "Times New Roman", georgia;
 font-size: 23px;
 }
 
 #mybio {
-font-family: Aboreto, "Times New Roman", georgia;
-background-color: #546875;
 font-size: 17px;
-color: #FFE8AB;
 width: 450px;
 padding: 15px;
 }
 
-#footer {
-position: relative;
-background-color: #829BB9;
+#footer2 {
 height: 100px;
 width: 480px;
-
 }
 
-#footerleft {
-position: absolute;
-
-font-size: 15px;
-font-family: candara, sans-serif;
-bottom: 40%
+#footerleft2 {
+font-size: 14px;
+margin-left: 5%;
+margin-top: 38px;
 }
 
-#footerright {
-position: absolute;
-
-font-size: 15px;
-font-family: candara, sans-serif;
-bottom: 55%
+#footerright2 {
+font-size: 14px;
+margin-right: 5%;
+margin-top: 38px;
 }
-
 }
