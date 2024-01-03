@@ -112,13 +112,16 @@ font-size: 20px;
 
 
 #mybio {
-font-family: Aboreto, "Times New Roman", georgia;
 clear: both;
 padding: 5px 220px 100px 220px; 
 background-color: #546875;
 font-size: 17px;
 color: #FFE8AB;
 min-width: 300px
+}
+
+.biotext {
+font-family: Aboreto, Baskerville, Cambria;
 }
 
 #footer2 {
@@ -191,8 +194,8 @@ font-size: 25px;
 position: absolute;
 background-color: #383838;
 opacity: 0.5;
-width: 154px;
-height: 70px;
+width: 143px;
+height: 29.1px;
 left: 47px;
 bottom: 92px;
 }
@@ -223,7 +226,7 @@ font-size: 25px;
 position: absolute;
 background-color: #383838;
 opacity: 0.5;
-width: 77px;
+width: 67px;
 height: 29.1px;
 left: 226px;
 bottom: 92px;
