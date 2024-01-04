@@ -161,13 +161,13 @@ letter-spacing: 5px;
 }
 
 #bottom-left {
-left: 50px;
+left: 40px;
 bottom: 92px; 
 font-size: 25px;
 }
 
 #bottom-right {
-right: 50px;
+right: 40px;
 bottom: 92px; 
 font-size: 25px;
 }
@@ -242,18 +242,21 @@ letter-spacing: 5px;
 }
 
 #bottom-left {
-left: 50px;
+left: 40px;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #bottom-right {
-right: 50px;
+right: 40px;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #centered {
 left: 48%;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #biotitle {
@@ -317,18 +320,21 @@ letter-spacing: 5px;
 }
 
 #bottom-left {
-left: 50px;
+left: 40px;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #bottom-right {
-right: 50px;
+right: 40px;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #centered {
 left: 48%;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #biotitle {
@@ -393,18 +399,21 @@ letter-spacing: 5px;
 }
 
 #bottom-left {
-left: 50px;
+left: 40px;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #bottom-right {
-right: 50px;
+right: 40px;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #centered {
 left: 48%;
 bottom: 92px; 
+font-size: 25px;
 }
 
 #biotitle {
