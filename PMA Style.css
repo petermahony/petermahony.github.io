@@ -24,6 +24,7 @@ background-color:#546875;
 } 
 
 #FW {
+padding-top: 25px;
 width: 61%;
 }
 
@@ -173,7 +174,7 @@ font-size: 25px;
 }
 
 #centered {
-left: 225px;
+left: 223px;
 bottom: 92px; 
 font-size: 25px;
 }
@@ -192,7 +193,7 @@ padding-bottom: 20px;
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 360px;
 }
 
 #footerleft2 {
@@ -254,7 +255,7 @@ font-size: 25px;
 }
 
 #centered {
-left: 225px;
+left: 223px;
 bottom: 92px; 
 font-size: 25px;
 }
@@ -271,7 +272,7 @@ padding: 15px;
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 375px;
 }
 
 #footerleft2 {
@@ -332,7 +333,7 @@ font-size: 25px;
 }
 
 #centered {
-left: 225px;
+left: 223px;
 bottom: 92px; 
 font-size: 25px;
 }
@@ -350,7 +351,7 @@ padding: 15px;
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 414px;
 }
 
 #footerleft2 {
@@ -411,7 +412,7 @@ font-size: 25px;
 }
 
 #centered {
-left: 225px;
+left: 223px;
 bottom: 92px; 
 font-size: 25px;
 }
