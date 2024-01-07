@@ -722,19 +722,19 @@ letter-spacing: 5px;
 #bottom-left {
 left: 37px;
 bottom: 85px; 
-font-size: 21px;
+font-size: 18px;
 }
 
 #bottom-right {
 right: 37px;
 bottom: 85px; 
-font-size: 21px;
+font-size: 18px;
 }
 
 #centered {
 left: 168px;
 bottom: 85px; 
-font-size: 21px;
+font-size: 18px;
 }
 
 #biotitle {
