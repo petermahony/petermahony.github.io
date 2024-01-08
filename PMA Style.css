@@ -641,21 +641,21 @@ font-size: 38px;
 }
 
 #bottom-left {
-left: 38px;
+left: 34px;
 bottom: 92px; 
-font-size: 22px;
+font-size: 20px;
 }
 
 #bottom-right {
-right: 38px;
+right: 34px;
 bottom: 92px; 
-font-size: 22px;
+font-size: 20px;
 }
 
 #centered {
-left: 176px;
+left: 174px;
 bottom: 92px; 
-font-size: 22px;
+font-size: 20px;
 }
 
 #biotitle {
