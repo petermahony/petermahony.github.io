@@ -152,8 +152,7 @@ margin-right: 10%;
 margin-top: 38px;
 }
 
-@media (max-width: 360px) {
-
+@media (max-width: 1280px) {
 #all {
 height: 100%;
 width: 100%;
@@ -161,15 +160,15 @@ margin: 0;
 }
 
 #header {
-height: 124px;
-font-size: 20px;
+height: 267px;
+font-size: 43px;
 letter-spacing: 3px;
-width: 340px;
-padding: 10px;
+width: 1260px;
+padding: 1px 10px 10px 10px;
 }
 
 #PrintsTitle {
-font-size: 40px !important;
+font-size: 53px;
 padding: 40px 0 40px 0;
 }
 
@@ -186,23 +185,23 @@ margin-right: auto;
 
 #section1 {
 float: left;
-font-size: 20px;
+font-size: 31px;
 }
 
 #section2 {
 float: right;
-font-size: 20px;
-color: #FFE8AB;
+font-size: 31px;
+
 }
 
 #section3 {
 float: left;
-font-size: 20px;
+font-size: 31px;
 margin-bottom: 50px;
 }
 
 #Prints {
-width: 40%;
+width: 37%;
 float: left;
 padding: 10px;
 margin-right: 20px;
@@ -232,44 +231,144 @@ position: relative;
 clear: both;
 text-align: center;
 padding: 10px;
+font-size: 38px;
+}
+
+#footer2 {
+height: 150px;
+width: 1280px;
+}
+
+#footerleft2 {
+font-size: 25px;
+margin-left: 5%;
+margin-top: 53px;
+}
+
+#footerright2 {
+font-size: 25px;
+margin-right: 5%;
+margin-top: 53px;
+}
+}
+
+@media (max-width: 992px) {
+#all {
+height: 100%;
+width: 100%;
+margin: 0;
+}
+
+#header {
+height: 200px;
+font-size: 31px;
+letter-spacing: 3px;
+width: 972px;
+padding: 10px;
+}
+
+#PrintsTitle {
+font-size: 47px;
+padding: 40px 0 40px 0;
+}
+
+#printcon {
+display: none;
+}
+
+#printcon2 {
+display: block;
+width: 85%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#section1 {
+float: left;
+font-size: 25px;
+}
+
+#section2 {
+float: right;
+font-size: 25px;
+
+}
+
+#section3 {
+float: left;
+font-size: 25px;
+margin-bottom: 50px;
+}
+
+#Prints {
+width: 37%;
+float: left;
+padding: 10px;
+margin-right: 20px;
+}
+
+#PrintMounts{
+width: 40%;
+float: right;
+padding: 10px;
+margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 20px;
+clear: both;
+}
+
+#Postcards{
+width: 46%;
+float: left;
+padding: 10px;
+margin-top: 20px;
+margin-right: 20px;
+clear: both;
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+padding: 10px;
+font-size: 38px;
 }
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 992px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 20px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
+font-size: 20px;
 margin-right: 5%;
 margin-top: 38px;
 }
 }
 
-@media (max-width: 375px) {
-
+@media (max-width: 768px) {
 #all {
 height: 100%;
-width: 375px;
+width: 100%;
 margin: 0;
 }
 
 #header {
-height: 124px;
-font-size: 20px;
+height: 200px;
+font-size: 31px;
 letter-spacing: 3px;
-width: 355px;
+width: 748px;
 padding: 10px;
 }
 
 #PrintsTitle {
-font-size: 40px !important;
+font-size: 43px;
 padding: 40px 0 40px 0;
 }
 
@@ -287,12 +386,12 @@ margin-right: auto;
 #section1 {
 float: left;
 font-size: 20px;
-color: #FFE8AB;
 }
 
 #section2 {
 float: right;
 font-size: 20px;
+
 }
 
 #section3 {
@@ -302,7 +401,7 @@ margin-bottom: 50px;
 }
 
 #Prints {
-width: 40%;
+width: 37%;
 float: left;
 padding: 10px;
 margin-right: 20px;
@@ -334,43 +433,42 @@ text-align: center;
 padding: 10px;
 }
 
+
 #footer2 {
 height: 100px;
-width: 480px;
+width: 768px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 18px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
+font-size: 18px;
 margin-right: 5%;
 margin-top: 38px;
 }
 }
 
-
-@media (max-width: 414px) {
-
+@media (max-width: 601px) {
 #all {
 height: 100%;
-width: 414px;
+width: 100%;
 margin: 0;
 }
 
 #header {
-height: 124px;
-font-size: 20px;
+height: 133px;
+font-size: 23px;
 letter-spacing: 3px;
-width: 394px;
-padding: 10px;
+width: 581px;
+padding: 1px 10px 10px 10px;
 }
 
 #PrintsTitle {
-font-size: 40px !important;
+font-size: 43px;
 padding: 40px 0 40px 0;
 }
 
@@ -393,6 +491,7 @@ font-size: 20px;
 #section2 {
 float: right;
 font-size: 20px;
+
 }
 
 #section3 {
@@ -436,17 +535,17 @@ padding: 10px;
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 601px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 17px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
+font-size: 17px;
 margin-right: 5%;
 margin-top: 38px;
 }
@@ -470,7 +569,7 @@ padding: 10px;
 }
 
 #PrintsTitle {
-font-size: 40px !important;
+font-size: 43px;
 padding: 40px 0 40px 0;
 }
 
@@ -541,14 +640,319 @@ width: 480px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 15px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
+font-size: 15px;
+margin-right: 5%;
+margin-top: 38px;
+}
+
+@media (max-width: 414px) {
+
+#all {
+height: 100%;
+width: 414px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 394px;
+padding: 10px;
+}
+
+#PrintsTitle {
+font-size: 40px;
+padding: 40px 0 40px 0;
+}
+
+#printcon {
+display: none;
+}
+
+#printcon2 {
+display: block;
+width: 85%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#section1 {
+float: left;
+font-size: 20px;
+}
+
+#section2 {
+float: right;
+font-size: 20px;
+}
+
+#section3 {
+float: left;
+font-size: 20px;
+margin-bottom: 50px;
+}
+
+#Prints {
+width: 40%;
+float: left;
+padding: 10px;
+margin-right: 20px;
+}
+
+#PrintMounts{
+width: 40%;
+float: right;
+padding: 10px;
+margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 20px;
+clear: both;
+}
+
+#Postcards{
+width: 46%;
+float: left;
+padding: 10px;
+margin-top: 20px;
+margin-right: 20px;
+clear: both;
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 414px;
+}
+
+#footerleft2 {
+font-size: 12px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 12px;
 margin-right: 5%;
 margin-top: 38px;
 }
 }
+
+@media (max-width: 375px) {
+
+#all {
+height: 100%;
+width: 375px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 355px;
+padding: 10px;
+}
+
+#PrintsTitle {
+font-size: 40px;
+padding: 40px 0 40px 0;
+}
+
+#printcon {
+display: none;
+}
+
+#printcon2 {
+display: block;
+width: 85%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#section1 {
+float: left;
+font-size: 20px;
+color: #FFE8AB;
+}
+
+#section2 {
+float: right;
+font-size: 20px;
+}
+
+#section3 {
+float: left;
+font-size: 20px;
+margin-bottom: 50px;
+}
+
+#Prints {
+width: 40%;
+float: left;
+padding: 10px;
+margin-right: 20px;
+}
+
+#PrintMounts{
+width: 40%;
+float: right;
+padding: 10px;
+margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 20px;
+clear: both;
+}
+
+#Postcards{
+width: 46%;
+float: left;
+padding: 10px;
+margin-top: 20px;
+margin-right: 20px;
+clear: both;
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 375px;
+}
+
+#footerleft2 {
+font-size: 12px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 12px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 360px) {
+
+#all {
+height: 100%;
+width: 100%;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 340px;
+padding: 10px;
+}
+
+#PrintsTitle {
+font-size: 40px;
+padding: 40px 0 40px 0;
+}
+
+#printcon {
+display: none;
+}
+
+#printcon2 {
+display: block;
+width: 85%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#section1 {
+float: left;
+font-size: 20px;
+}
+
+#section2 {
+float: right;
+font-size: 20px;
+color: #FFE8AB;
+}
+
+#section3 {
+float: left;
+font-size: 20px;
+margin-bottom: 50px;
+}
+
+#Prints {
+width: 40%;
+float: left;
+padding: 10px;
+margin-right: 20px;
+}
+
+#PrintMounts{
+width: 40%;
+float: right;
+padding: 10px;
+margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 20px;
+clear: both;
+}
+
+#Postcards{
+width: 46%;
+float: left;
+padding: 10px;
+margin-top: 20px;
+margin-right: 20px;
+clear: both;
+}
+
+#Home {
+position: relative;
+clear: both;
+text-align: center;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 360px;
+}
+
+#footerleft2 {
+font-size: 11px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 11px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+
+
+
+
+
+
