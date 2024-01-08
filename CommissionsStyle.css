@@ -113,19 +113,102 @@ margin-right: 10%;
 margin-top: 38px;
 }
 
-@media (max-width: 360px) {
-
+@media (max-width: 1280px) {
 #all {
 height: 100%;
-width: 360px;
+width: 1280px;
 margin: 0;
 }
 
 #header {
-height: 124px;
-font-size: 20px;
+height: 267px;
+font-size: 43px;
 letter-spacing: 3px;
-width: 340px;
+width: 1260px;
+padding: 1px 10px 10px 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 80%; 
+}
+
+#Commissions {
+font-size: 50px;
+padding: 10px;
+padding-bottom: 20px;
+background-color: #546875;
+}
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 31px;
+padding-left: 0;
+clear: both;
+margin-bottom: 25px;
+}
+
+#TRPsketch {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 50%;
+float: left;
+padding: 10px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+padding: 10px;
+font-size: 41px;
+}
+
+#footer2 {
+height: 150px;
+width: 1280px;
+}
+
+#footerleft2 {
+font-size: 25px;
+margin-left: 5%;
+margin-top: 53px;
+}
+
+#footerright2 {
+font-size: 25px;
+margin-right: 5%;
+margin-top: 53px;
+}
+}
+
+@media (max-width: 992px) {
+#all {
+height: 100%;
+width: 992px;
+margin: 0;
+}
+
+#header {
+height: 200px;
+font-size: 31px;
+letter-spacing: 3px;
+width: 972px;
 padding: 10px;
 }
 
@@ -134,13 +217,185 @@ padding: 25px;
 } 
 
 #TRP {
+width: 80%; 
+}
+
+#Commissions {
+font-size: 34px;
+padding: 10px;
+padding-bottom: 20px;
+background-color: #546875;
+}
+
+#commish {
 width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 25px;
+padding-left: 0;
+clear: both;
+margin-bottom: 25px;
+}
+
+#TRPsketch {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 50%;
+float: left;
+padding: 10px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+padding: 10px;
+font-size: 31px;
+}
+
+#footer2 {
+height: 100px;
+width: 992px;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 20px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 768px) {
+#all {
+height: 100%;
+width: 768px;
+margin: 0;
+}
+
+#header {
+height: 200px;
+font-size: 31px;
+letter-spacing: 3px;
+width: 748px;
+padding: 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 80%; 
+}
+
+#Commissions {
+font-size: 34px;
+padding: 10px;
+padding-bottom: 20px;
+background-color: #546875;
+}
+
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 25px;
+padding-left: 0;
+clear: both;
+margin-bottom: 25px;
+}
+
+#TRPsketch {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 50%;
+float: left;
+padding: 10px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 31px;
+padding: 10px;
+height: 40px;
+}
+
+#footer2 {
+height: 100px;
+width: 768px;
+}
+
+#footerleft2 {
+font-size: 18px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 18px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+
+@media (max-width: 601px) {
+#all {
+height: 100%;
+width: 601px;
+margin: 0;
+}
+
+#header {
+height: 133px;
+font-size: 23px;
+letter-spacing: 3px;
+width: 581px;
+padding: 1px 10px 10px 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 80%; 
 }
 
 #Commissions {
 font-size: 31px;
 padding: 10px;
 padding-bottom: 20px;
+background-color: #546875;
 }
 
 
@@ -155,21 +410,21 @@ margin-bottom: 25px;
 }
 
 #TRPsketch {
-width: 47%;
+width: 50%;
 float: right;
 padding: 10px;
 margin: 10px 0 10px 10px;
 }
 
 #TRPoilsketch {
-width: 47%;
+width: 50%;
 float: left;
 padding: 10px;
 margin: 20px 15px 20px 0;
 }
 
 #TRPprogress {
-width: 47%;
+width: 50%;
 float: right;
 padding: 10px;
 margin: 20px 0 31px 10px;
@@ -183,141 +438,20 @@ height: 40px;
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 601px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 17px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
+font-size: 17px;
 margin-right: 5%;
 margin-top: 38px;
 }
-
-}
-
-@media (max-width: 375px) {
-	
-#all {
-height: 100%;
-width: 375px;
-margin: 0;
-}
-
-#header {
-height: 124px;
-font-size: 20px;
-letter-spacing: 3px;
-width: 355px;
-padding: 10px;
-}
-
-#TRPheading {
-padding: 25px;
-} 
-
-#TRP {
-width: 80%; 
-}
-
-#Commissions {
-font-size: 31px;
-padding: 10px;
-padding-bottom: 20px;
-}
-
-
-#commish {
-width: 80%;
-margin-left: auto;
-margin-right: auto;
-font-size: 20px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
-}
-
-#footer2 {
-height: 100px;
-width: 480px;
-}
-
-#footerleft2 {
-font-size: 14px;
-margin-left: 5%;
-margin-top: 38px;
-}
-
-#footerright2 {
-font-size: 14px;
-margin-right: 5%;
-margin-top: 38px;
-}
-
-}
-
-@media (max-width: 414px) {
-	
-#all {
-height: 100%;
-width: 375px;
-margin: 0;
-}
-
-#header {
-height: 124px;
-font-size: 20px;
-letter-spacing: 3px;
-width: 394px;
-padding: 10px;
-}
-
-#TRPheading {
-padding: 25px;
-} 
-
-#TRP {
-width: 80%; 
-}
-
-#Commissions {
-font-size: 31px;
-padding: 10px;
-padding-bottom: 20px;
-}
-
-
-#commish {
-width: 80%;
-margin-left: auto;
-margin-right: auto;
-font-size: 20px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
-}
-
-#footer2 {
-height: 100px;
-width: 480px;
-}
-
-#footerleft2 {
-font-size: 14px;
-margin-left: 5%;
-margin-top: 38px;
-}
-
-#footerright2 {
-font-size: 14px;
-margin-right: 5%;
-margin-top: 38px;
-}
-
 }
 
 @media (max-width: 480px) {
@@ -362,6 +496,32 @@ clear: both;
 margin-bottom: 25px;
 }
 
+#TRPsketch {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 50%;
+float: left;
+padding: 10px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 27px;
+padding: 10px;
+height: 40px;
+}
 
 #footer2 {
 height: 100px;
@@ -379,5 +539,267 @@ font-size: 14px;
 margin-right: 5%;
 margin-top: 38px;
 }
-
 }
+
+@media (max-width: 414px) {
+	
+#all {
+height: 100%;
+width: 414px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 394px;
+padding: 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 80%; 
+}
+
+#Commissions {
+font-size: 31px;
+padding: 10px;
+padding-bottom: 20px;
+}
+
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 20px;
+padding-left: 0;
+clear: both;
+margin-bottom: 25px;
+}
+
+#TRPsketch {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 50%;
+float: left;
+padding: 10px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 50%;
+float: right;
+padding: 10px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 25px;
+padding: 10px;
+height: 31px;
+}
+
+#footer2 {
+height: 100px;
+width: 414px;
+}
+
+#footerleft2 {
+font-size: 12px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 12px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 375px) {
+	
+#all {
+height: 100%;
+width: 375px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 355px;
+padding: 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 80%; 
+}
+
+#Commissions {
+font-size: 31px;
+padding: 10px;
+padding-bottom: 20px;
+}
+
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 20px;
+padding-left: 0;
+clear: both;
+margin-bottom: 25px;
+}
+
+#TRPsketch {
+width: 49%;
+float: right;
+padding: 10px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 49%;
+float: left;
+padding: 10px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 49%;
+float: right;
+padding: 10px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 25px;
+padding: 10px;
+height: 31px;
+}
+
+#footer2 {
+height: 100px;
+width: 375px;
+}
+
+#footerleft2 {
+font-size: 12px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 12px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 360px) {
+
+#all {
+height: 100%;
+width: 360px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 340px;
+padding: 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 80%;
+}
+
+#Commissions {
+font-size: 31px;
+padding: 10px;
+padding-bottom: 20px;
+}
+
+
+#commish {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+font-size: 20px;
+padding-left: 0;
+clear: both;
+margin-bottom: 25px;
+}
+
+#TRPsketch {
+width: 49%;
+float: right;
+padding: 10px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 49%;
+float: left;
+padding: 10px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 49%;
+float: right;
+padding: 10px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 25px;
+padding: 10px;
+height: 31px;
+}
+
+#footer2 {
+height: 100px;
+width: 360px;
+}
+
+#footerleft2 {
+font-size: 11px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 11px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+
+
+
+
