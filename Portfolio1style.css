@@ -186,24 +186,576 @@ margin-right: 10%;
 margin-top: 38px;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 601px) {
+.biotext {
+display: none;
+}
+
+#all {
+height: 100%;
+width: 601px;
+margin: 0;
+}
+
+#header {
+height: 133px;
+font-size: 23px;
+letter-spacing: 3px;
+width: 581px;
+padding: 1px 10px 10px 10px;
+}
+
+#galFarran {
+display: inline-block;
+height: 395px;
+}
+
+#FarranWood {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#galFarranWoodinfo {
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#galFarranframed {
+display: inline-block;
+height: 295px;
+}
+}
+
+#Farranframed {
+position: relative;
+padding: 10px;
+width: 49%;
+}
+
+#galFarranbio {	
+display: none;
+}
+
+#galsummerevening {
+display: inline-block;
+height: 367px;
+}
+
+#SummerEvening {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+}
+
+#galsummereveninginfo {
+float: left;
+clear: both;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#galSummerEveningframed {
+display: inline-block;
+height: 267.5px;
+}
+
+#SummerEveningframed {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#galsebio {
+display: none;
+}
+
+#galFrostyWalk {
+display: inline-block;
+height: 337px;
+}
+
+#FrostyWalk {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#FrostyWalkinfo {
+float: left;
+clear: right;
+top: 31px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#FrostyEasel { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#frostybio {
+display: none;
+}
+
+#page2 {
+font-size: 27px;
+padding: 10px;
+}
+
+#page2 {
+font-size: 27px;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 601px;
+}
+
+#footerleft2 {
+font-size: 17px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 17px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+
+@media (max-width: 480px) {
+	
+.biotext {
+display: none;
+}
+	
+#all {
+height: 100%;
+width: 480px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 460px;
+padding: 10px;
+}
+
+
+#galFarran {
+display: inline-block;
+height: 320.1px;
+}
+
+#FarranWood {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#galFarranWoodinfo {
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#Farranframed {
+position: relative;
+padding: 10px;
+}
+
+#galFarranbio {	
+display: none;
+}
+
+#galsummerevening {
+display: inline-block;
+height: 295px;
+}
+
+#SummerEvening {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+}
+
+#galsummereveninginfo {
+float: left;
+clear: both;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#SummerEveningframed {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#galsebio {
+display: none;
+}
+
+#galFrostyWalk {
+display: inline-block;
+height: 272.2px;
+}
+
+#FrostyWalk {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#FrostyWalkinfo {
+float: left;
+clear: right;
+top: 31px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#FrostyEasel { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#frostybio {
+display: none;
+}
+
+#page2 {
+font-size: 27px;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 480px;
+}
+
+#footerleft2 {
+font-size: 14px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 14px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 414px) {
 	
 .biotext {
 display: none;
 }
 
-	
 #all {
-background-color: #A4BECF; 
 height: 100%;
-width: 360px; 
+width: 414px;
+margin: 0;
 }
 
 #header {
-background-color: #829BB9;
-color: white; 
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 394px;
+padding: 10px;
+}
+
+#galFarran {
+display: inline-block;
+height: 277px;
+}
+
+#FarranWood {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#galFarranWoodinfo {
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#Farranframed {
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#galFarranbio {	
+display: none;
+}
+
+#galsummerevening {
+display: inline-block;
+height: 257px;
+}
+
+#SummerEvening {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+background-color: #546875;
+}
+
+#galsummereveninginfo {
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#SummerEveningframed {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#galsebio {
+display: none;	
+}
+
+#galFrostyWalk {
+display: inline-block;
+height: 235.5px;
+}
+
+#FrostyWalk {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#FrostyWalkinfo {
+top: 31px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#FrostyEasel { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#frostybio {
+display: none;	
+}
+
+#page2 {
+font-size: 25px;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 414px;
+}
+
+#footerleft2 {
+font-size: 12px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 12px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 375px) {
+	
+.biotext {
+display: none;
+}
+
+#all {
+height: 100%;
+width: 375px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 355px;
+padding: 10px;
+}
+
+#galFarran {
+display: inline-block;
+height: 244px;
+}
+
+#FarranWood {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#galFarranWoodinfo {
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#Farranframed {
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#galFarranbio {	
+display: none;
+}
+
+#galsummerevening {
+display: inline-block;
+height: 227.4px;
+}
+
+#SummerEvening {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+}
+
+#galsummereveninginfo {
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#SummerEveningframed {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#galsebio {
+display: none;	
+}
+
+#galFrostyWalk {
+display: inline-block;
+height: 208px;
+}
+
+#FrostyWalk {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#FrostyWalkinfo {
+clear: right;
+top: 31px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#FrostyEasel { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#frostybio {
+display: none;	
+}
+
+#page2 {
+clear: both;
 text-align: center;
-font-family: Aboreto, "Times New Roman", georgia;
+padding: 10px; 
+font-size: 25px;
+}
+
+#footer2 {
+height: 100px;
+width: 375px;
+}
+
+#footerleft2 {
+font-size: 12px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 12px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 360px) {
+	
+.biotext {
+display: none;
+}
+	
+#all {
+height: 100%;
+width: 360px;
+margin: 0;
+}
+
+#header {
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
@@ -366,424 +918,22 @@ text-decoration: underline;
 #portfolio {
 color: #FFE8AB;
 text-decoration: none;
-font-size: 31px;
+font-size: 25px;
 }
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 360px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 11px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
-margin-right: 5%;
-margin-top: 38px;
-}
-}
-
-@media (max-width: 375px) {
-	
-.biotext {
-display: none;
-}
-
-	
-#all {
-height: 100%;
-width: 375px; 
-}
-
-#header {
-height: 124px;
-font-size: 20px;
-letter-spacing: 3px;
-width: 355px;
-padding: 10px;
-}
-
-#galFarran {
-display: inline-block;
-height: 244px;
-}
-
-#FarranWood {
-padding: 10px;
-float: left;
-width: 80%;
-}
-
-#galFarranWoodinfo {
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#Farranframed {
-padding: 10px;
-float: right;
-clear: left;
-width: 49%;
-}
-
-#galFarranbio {	
-display: none;
-}
-
-#galsummerevening {
-display: inline-block;
-height: 227.4px;
-}
-
-#SummerEvening {
-padding: 10px;
-float: left;
-clear: right;
-width: 70%;
-}
-
-#galsummereveninginfo {
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#SummerEveningframed {
-padding: 10px;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#galsebio {
-display: none;	
-}
-
-#galFrostyWalk {
-display: inline-block;
-height: 208px;
-}
-
-#FrostyWalk {
-padding: 10px;
-float: left;
-clear: right;
-width: 80%;
-}
-
-#FrostyWalkinfo {
-clear: right;
-top: 31px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#FrostyEasel { 
-padding: 10px;
-float: right;
-clear: left;
-width: 49%;
-}
-
-#frostybio {
-display: none;	
-}
-
-#page2 {
-clear: both;
-text-align: center;
-padding: 10px; 
-font-size: 31px;
-}
-
-#footer2 {
-height: 100px;
-width: 480px;
-}
-
-#footerleft2 {
-font-size: 14px;
-margin-left: 5%;
-margin-top: 38px;
-}
-
-#footerright2 {
-font-size: 14px;
-margin-right: 5%;
-margin-top: 38px;
-}
-}
-
-@media (max-width: 414px) {
-	
-.biotext {
-display: none;
-}
-
-	
-#all {
-height: 100%;
-width: 414px; 
-}
-
-#header {
-height: 124px;
-font-size: 20px;
-letter-spacing: 3px;
-width: 394px;
-padding: 10px;
-}
-
-#galFarran {
-display: inline-block;
-height: 277px;
-}
-
-#FarranWood {
-padding: 10px;
-float: left;
-width: 80%;
-}
-
-#galFarranWoodinfo {
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#Farranframed {
-padding: 10px;
-float: right;
-clear: left;
-width: 49%;
-}
-
-#galFarranbio {	
-display: none;
-}
-
-#galsummerevening {
-display: inline-block;
-height: 257px;
-}
-
-#SummerEvening {
-padding: 10px;
-float: left;
-clear: right;
-width: 70%;
-background-color: #546875;
-}
-
-#galsummereveninginfo {
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#SummerEveningframed {
-padding: 10px;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#galsebio {
-display: none;	
-}
-
-#galFrostyWalk {
-display: inline-block;
-height: 235.5px;
-}
-
-#FrostyWalk {
-padding: 10px;
-float: left;
-clear: right;
-width: 80%;
-}
-
-#FrostyWalkinfo {
-top: 31px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#FrostyEasel { 
-padding: 10px;
-float: right;
-clear: left;
-width: 49%;
-}
-
-#frostybio {
-display: none;	
-}
-
-#page2 {
-padding: 10px;
-}
-
-#footer2 {
-height: 100px;
-width: 480px;
-}
-
-#footerleft2 {
-font-size: 14px;
-margin-left: 5%;
-margin-top: 38px;
-}
-
-#footerright2 {
-font-size: 14px;
-margin-right: 5%;
-margin-top: 38px;
-}
-}
-
-@media (max-width: 480px) {
-	
-.biotext {
-display: none;
-}
-
-	
-#all {
-height: 100%;
-width: 480px; 
-}
-
-#header {
-height: 124px;
-font-size: 20px;
-letter-spacing: 3px;
-width: 460px;
-padding: 10px;
-}
-
-#galFarran {
-display: inline-block;
-height: 320.1px;
-}
-
-#FarranWood {
-padding: 10px;
-float: left;
-width: 80%;
-}
-
-#galFarranWoodinfo {
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#Farranframed {
-position: relative;
-padding: 10px;
-}
-
-#galFarranbio {	
-display: none;
-}
-
-#galsummerevening {
-display: inline-block;
-height: 295px;
-}
-
-#SummerEvening {
-padding: 10px;
-float: left;
-clear: right;
-width: 70%;
-}
-
-#galsummereveninginfo {
-float: left;
-clear: both;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#SummerEveningframed {
-padding: 10px;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#galsebio {
-display: none;
-}
-
-#galFrostyWalk {
-display: inline-block;
-height: 272.2px;
-}
-
-#FrostyWalk {
-padding: 10px;
-float: left;
-clear: right;
-width: 80%;
-}
-
-#FrostyWalkinfo {
-float: left;
-clear: right;
-top: 31px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#FrostyEasel { 
-padding: 10px;
-float: right;
-clear: left;
-width: 49%;
-}
-
-#frostybio {
-display: none;
-}
-
-#page2 {
-padding: 10px;
-}
-
-#footer2 {
-height: 100px;
-width: 480px;
-}
-
-#footerleft2 {
-font-size: 14px;
-margin-left: 5%;
-margin-top: 38px;
-}
-
-#footerright2 {
-font-size: 14px;
+font-size: 11px;
 margin-right: 5%;
 margin-top: 38px;
 }
