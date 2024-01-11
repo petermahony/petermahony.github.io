@@ -21,7 +21,11 @@ color: white;
 text-decoration: none;
 }
 
-#FarranWood {
+#portfolio1 {
+display: block;
+}
+
+#painting1 {
 position: relative;
 padding: 25px;
 background-color: #546875;
@@ -30,7 +34,7 @@ width: 47%;
 }
 
 
-#galFarranWoodinfo {
+#info1 {
 position: relative;
 float: right;
 top: 425px;
@@ -41,7 +45,11 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#Farranframed {
+#portfolioframed1 {
+display: block;
+}
+
+#paintingframed1 {
 position: relative;
 padding: 25px;
 background-color: #546875;
@@ -51,7 +59,7 @@ padding-left: 905px;
 width: 31.5%;
 }
 
-#galFarranbio {
+#bio1 {
 position: relative;
 float: left;
 bottom: 285px;
@@ -64,7 +72,7 @@ color: #FFE8AB
 }
 
 
-#SummerEvening {
+#painting2 {
 position: relative;
 padding: 25px;
 background-color: #546875;
@@ -72,7 +80,7 @@ float: left;
 width: 45%;
 }
 
-#galsummereveninginfo {
+#info2 {
 position: relative;
 float: right;
 top: 415px;
@@ -83,7 +91,7 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#SummerEveningframed {
+#paintingframed2 {
 position: relative;
 padding: 25px;
 background-color: #546875;
@@ -93,7 +101,7 @@ padding-left: 872px;
 width: 33.5%;
 }
 
-#galsebio {
+#bio2 {
 position: relative;
 float: left;
 bottom: 240px;
@@ -105,7 +113,7 @@ font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB 
 }
 
-#FrostyWalk {
+#painting3 {
 position: relative;
 padding: 25px;
 background-color: #546875;
@@ -113,7 +121,7 @@ float: left;
 width: 55%;
 }
 
-#FrostyWalkinfo {
+#info3 {
 position: relative;
 float: right;
 top: 370px;
@@ -124,7 +132,7 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#FrostyEasel {
+#paintingframed3 {
 position: relative;
 padding: 25px;
 background-color: #546875;
@@ -134,7 +142,7 @@ padding-left: 853px;
 width: 35%;
 }
 
-#frostybio {
+#bio3 {
 position: relative;
 float: left;
 bottom: 200px;
@@ -146,8 +154,7 @@ font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB
 }
 
-
-#page2 {
+#nxtpge {
 position: relative;
 clear: both;
 text-align: center;
@@ -205,18 +212,18 @@ width: 581px;
 padding: 1px 10px 10px 10px;
 }
 
-#galFarran {
+#portfolio1 {
 display: inline-block;
-height: 395px;
+height: 396px;
 }
 
-#FarranWood {
+#painting1 {
 padding: 10px;
 float: left;
 width: 80%;
 }
 
-#galFarranWoodinfo {
+#info1 {
 float: left;
 top: 40px;
 left: 40px;
@@ -224,72 +231,73 @@ width: 110px;
 font-size: 14px;
 }
 
-#galFarranframed {
+#portfolioframed1 {
 display: inline-block;
 height: 295px;
 }
-}
 
-#Farranframed {
-position: relative;
+
+#paintingframed1 {
 padding: 10px;
+float: right;
+clear: left;
 width: 49%;
 }
 
-#galFarranbio {	
+#bio1 {	
 display: none;
 }
 
-#galsummerevening {
+#portfolio2 {
 display: inline-block;
 height: 367px;
 }
 
-#SummerEvening {
+#painting2 {
 padding: 10px;
 float: left;
 clear: right;
 width: 70%;
 }
 
-#galsummereveninginfo {
+#info2 {
 float: left;
-clear: both;
+clear: left;
 top: 40px;
 left: 40px;
 width: 110px;
 font-size: 14px;
 }
 
-#galSummerEveningframed {
+#portfolioframed2{
 display: inline-block;
-height: 267.5px;
+height: 268px;
 }
 
-#SummerEveningframed {
+#paintingframed2 {
 padding: 10px;
 float: right;
 clear: left;
 width: 47%;
 }
 
-#galsebio {
-display: none;
+#bio2 {
+display: none;	
 }
 
-#galFrostyWalk {
+#portfolio3 {
 display: inline-block;
 height: 337px;
 }
 
-#FrostyWalk {
+#painting3 {
 padding: 10px;
 float: left;
 clear: right;
 width: 80%;
 }
 
-#FrostyWalkinfo {
+#info3 {
 float: left;
 clear: right;
 top: 31px;
@@ -298,23 +306,18 @@ width: 110px;
 font-size: 14px;
 }
 
-#FrostyEasel { 
+#paintingframed3 { 
 padding: 10px;
 float: right;
 clear: left;
 width: 49%;
 }
 
-#frostybio {
+#bio3 {
 display: none;
 }
 
-#page2 {
-font-size: 27px;
-padding: 10px;
-}
-
-#page2 {
+#nxtpge {
 font-size: 27px;
 padding: 10px;
 }
@@ -359,18 +362,18 @@ padding: 10px;
 }
 
 
-#galFarran {
+#portfolio1 {
 display: inline-block;
-height: 320.1px;
+height: 319px;
 }
 
-#FarranWood {
+#painting1 {
 padding: 10px;
 float: left;
 width: 80%;
 }
 
-#galFarranWoodinfo {
+#info1 {
 float: left;
 top: 40px;
 left: 40px;
@@ -378,60 +381,73 @@ width: 110px;
 font-size: 14px;
 }
 
-#Farranframed {
-position: relative;
-padding: 10px;
+#portfolioframed1 {
+display: inline-block;
+height: 240px;
 }
 
-#galFarranbio {	
+
+#paintingframed1 {
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#bio1 {	
 display: none;
 }
 
-#galsummerevening {
+#portfolio2 {
 display: inline-block;
-height: 295px;
+height: 297px;
 }
 
-#SummerEvening {
+#painting2 {
 padding: 10px;
 float: left;
 clear: right;
 width: 70%;
 }
 
-#galsummereveninginfo {
+#info2 {
 float: left;
-clear: both;
+clear: left;
 top: 40px;
 left: 40px;
 width: 110px;
 font-size: 14px;
 }
 
-#SummerEveningframed {
+#portfolioframed2{
+display: inline-block;
+height: 217px;
+}
+
+#paintingframed2 {
 padding: 10px;
 float: right;
 clear: left;
 width: 47%;
 }
 
-#galsebio {
-display: none;
+#bio2 {
+display: none;	
 }
 
-#galFrostyWalk {
+#portfolio3 {
 display: inline-block;
-height: 272.2px;
+height: 273px;
 }
 
-#FrostyWalk {
+#painting3 {
 padding: 10px;
 float: left;
 clear: right;
 width: 80%;
 }
 
-#FrostyWalkinfo {
+#info3 {
 float: left;
 clear: right;
 top: 31px;
@@ -440,24 +456,24 @@ width: 110px;
 font-size: 14px;
 }
 
-#FrostyEasel { 
+#paintingframed3 { 
 padding: 10px;
 float: right;
 clear: left;
 width: 49%;
 }
 
-#frostybio {
+#bio3 {
 display: none;
 }
 
-#page2 {
+#nxtpge {
 font-size: 27px;
 padding: 10px;
 }
 
 #footer2 {
-height: 100px;
+height: 80px;
 width: 480px;
 }
 
@@ -494,18 +510,18 @@ width: 394px;
 padding: 10px;
 }
 
-#galFarran {
+#portfolio1 {
 display: inline-block;
 height: 277px;
 }
 
-#FarranWood {
+#painting1 {
 padding: 10px;
 float: left;
 width: 80%;
 }
 
-#galFarranWoodinfo {
+#info1 {
 float: left;
 top: 40px;
 left: 40px;
@@ -513,85 +529,98 @@ width: 110px;
 font-size: 14px;
 }
 
-#Farranframed {
+#portfolioframed1 {
+display: inline-block;
+height: 209px;
+}
+
+
+#paintingframed1 {
 padding: 10px;
 float: right;
 clear: left;
 width: 49%;
 }
 
-#galFarranbio {	
+#bio1 {	
 display: none;
 }
 
-#galsummerevening {
+#portfolio2 {
 display: inline-block;
-height: 257px;
+height: 258px;
 }
 
-#SummerEvening {
+#painting2 {
 padding: 10px;
 float: left;
 clear: right;
 width: 70%;
-background-color: #546875;
 }
 
-#galsummereveninginfo {
+#info2 {
+float: left;
 top: 40px;
 left: 40px;
 width: 110px;
 font-size: 14px;
 }
 
-#SummerEveningframed {
+#portfolioframed2{
+display: inline-block;
+height: 189px;
+}
+
+#paintingframed2 {
 padding: 10px;
 float: right;
 clear: left;
 width: 47%;
 }
 
-#galsebio {
+#bio2 {
 display: none;	
 }
 
-#galFrostyWalk {
+#portfolio3 {
 display: inline-block;
-height: 235.5px;
+height: 237px;
 }
 
-#FrostyWalk {
+#painting3 {
 padding: 10px;
 float: left;
 clear: right;
 width: 80%;
 }
 
-#FrostyWalkinfo {
+#info3 {
+float: left;
+clear: right;
 top: 31px;
 left: 40px;
 width: 110px;
 font-size: 14px;
 }
 
-#FrostyEasel { 
+#paintingframed3 { 
 padding: 10px;
 float: right;
 clear: left;
 width: 49%;
 }
 
-#frostybio {
+#bio3 {
 display: none;	
 }
 
-#page2 {
+#nxtpge {
 font-size: 25px;
 padding: 10px;
 }
 
 #footer2 {
-height: 100px;
+height: 80px;
 width: 414px;
 }
 
@@ -628,78 +657,92 @@ width: 355px;
 padding: 10px;
 }
 
-#galFarran {
+#portfolio1 {
 display: inline-block;
-height: 244px;
+height: 253px;
 }
 
-#FarranWood {
+#painting1 {
 padding: 10px;
 float: left;
 width: 80%;
 }
 
-#galFarranWoodinfo {
+#info1 {
+float: left;
 top: 40px;
 left: 40px;
 width: 110px;
 font-size: 14px;
 }
 
-#Farranframed {
+#portfolioframed1 {
+display: inline-block;
+height: 191px;
+}
+
+
+#paintingframed1 {
 padding: 10px;
 float: right;
 clear: left;
 width: 49%;
 }
 
-#galFarranbio {	
+#bio1 {	
 display: none;
 }
 
-#galsummerevening {
+#portfolio2 {
 display: inline-block;
-height: 227.4px;
+height: 235px;
 }
 
-#SummerEvening {
+#painting2 {
 padding: 10px;
 float: left;
 clear: right;
 width: 70%;
 }
 
-#galsummereveninginfo {
+#info2 {
+float: left;
 top: 40px;
 left: 40px;
 width: 110px;
 font-size: 14px;
 }
 
-#SummerEveningframed {
+#portfolioframed2{
+display: inline-block;
+height: 173px;
+}
+
+#paintingframed2 {
 padding: 10px;
 float: right;
 clear: left;
 width: 47%;
 }
 
-#galsebio {
+#bio2 {
 display: none;	
 }
 
-#galFrostyWalk {
+#portfolio3 {
 display: inline-block;
-height: 208px;
+height: 216px;
 }
 
-#FrostyWalk {
+#painting3 {
 padding: 10px;
 float: left;
 clear: right;
 width: 80%;
 }
 
-#FrostyWalkinfo {
+#info3 {
+float: left;
 clear: right;
 top: 31px;
 left: 40px;
@@ -707,18 +750,18 @@ width: 110px;
 font-size: 14px;
 }
 
-#FrostyEasel { 
+#paintingframed3 { 
 padding: 10px;
 float: right;
 clear: left;
 width: 49%;
 }
 
-#frostybio {
+#bio3 {
 display: none;	
 }
 
-#page2 {
+#nxtpge {
 clear: both;
 text-align: center;
 padding: 10px; 
@@ -726,7 +769,7 @@ font-size: 25px;
 }
 
 #footer2 {
-height: 100px;
+height: 80px;
 width: 375px;
 }
 
@@ -763,13 +806,13 @@ width: 340px;
 padding: 10px;
 }
 
-#galFarran {
+#portfolio1 {
 display: inline-block;
-height: 244px;
+height: 243px;
 }
 
 
-#FarranWood {
+#painting1 {
 position: relative;
 padding: 10px;
 background-color: #546875;
@@ -777,7 +820,7 @@ float: left;
 width: 80%;
 }
 
-#galFarranWoodinfo {
+#info1 {
 position: relative;
 float: left;
 top: 40px;
@@ -788,7 +831,12 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#Farranframed {
+#portfolioframed1 {
+display: inline-block;
+height: 185px;
+}
+
+#paintingframed1 {
 position: relative;
 padding: 10px;
 float: right;
@@ -797,7 +845,7 @@ width: 49%;
 background-color: #546875;
 }
 
-#galFarranbio {	
+#bio1 {	
 display: none;
 position: relative;
 float: left;
@@ -810,12 +858,12 @@ font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB
 }
 
-#galsummerevening {
+#portfolio2 {
 display: inline-block;
-height: 227.4px;
+height: 226px;
 }
 
-#SummerEvening {
+#painting2 {
 position: relative;
 padding: 10px;
 float: left;
@@ -824,7 +872,7 @@ width: 70%;
 background-color: #546875;
 }
 
-#galsummereveninginfo {
+#info2 {
 position: relative;
 float: left;
 top: 40px;
@@ -835,7 +883,12 @@ font-family: candara, sans-serif;
 color: black;
 }
 
-#SummerEveningframed {
+#portfolioframed2 {
+display: inline-block;
+height: 166px;
+}
+
+#paintingframed2 {
 position: relative;
 padding: 10px;
 float: right;
@@ -844,7 +897,7 @@ background-color: #546875;
 width: 47%;
 }
 
-#galsebio {
+#bio2 {
 display: none;	
 position: relative;
 float: left;
@@ -857,12 +910,12 @@ font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB; 
 }
 
-#galFrostyWalk {
+#portfolio3 {
 display: inline-block;
 height: 208px;
 }
 
-#FrostyWalk {
+#painting3 {
 position: relative;
 padding: 10px;
 float: left;
@@ -871,7 +924,7 @@ width: 80%;
 background-color: #546875;
 }
 
-#FrostyWalkinfo {
+#info3 {
 position: relative;
 float: left;
 clear: right;
@@ -883,7 +936,7 @@ font-family: candara, sans-serif;
 color: black
 }
 
-#FrostyEasel { 
+#paintingframed3 { 
 position: relative;
 padding: 10px;
 float: right;
@@ -892,7 +945,7 @@ width: 49%;
 background-color: #546875;
 }
 
-#frostybio {
+#bio3 {
 display: none;	
 position: relative;
 float: left;
@@ -905,7 +958,7 @@ font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB;
 }
 
-#page2 {
+#nxtpge {
 position: relative;
 clear: both;
 text-align: center;
@@ -922,7 +975,7 @@ font-size: 25px;
 }
 
 #footer2 {
-height: 100px;
+height: 85px;
 width: 360px;
 }
 
