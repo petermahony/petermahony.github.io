@@ -37,7 +37,7 @@ text-align: center;
 font-size: 34px;
 padding: 10px;
 padding-bottom: 20px;
-color: #FFE8AB;
+color: #FFEEBD;
 background-color: #546875;
 }
 
@@ -45,7 +45,7 @@ background-color: #546875;
 width: 70%;
 padding-left: 157px;
 font-size: 20px;
-color: #FFE8AB;
+color: #FFEEBD;
 background-color: #546875;
 clear: both;
 }
@@ -79,14 +79,14 @@ position: relative;
 clear: both;
 text-align: center;
 font-size: 25px;
-color: #FFE8AB;
+color: #FFEEBD;
 background-color: #829BB9;
 padding: 10px;
 text-decoration: underline
 }
 
 #portfolio {
-color: #FFE8AB;
+color: #FFEEBD;
 text-decoration: none;
 }
 
@@ -111,6 +111,264 @@ font-size: 19px;
 font-family: candara, sans-serif;
 margin-right: 10%;
 margin-top: 38px;
+}
+
+@media (max-width: 1920px) {
+
+#all {
+height: 100%;
+width: 1920px;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+width: 1900px;
+padding: 10px 10px 10px 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 50%;
+}
+
+#Commissions {
+font-size: 37px;
+padding: 10px;
+padding-bottom: 20px;
+}
+
+#commish {
+width: 70%;
+font-size: 23px;
+padding: 0 300px 0 300px;
+border: 0;
+}
+
+#TRPsketch {
+width: 31%;
+float: right;
+padding: 15px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 31%;
+padding: 15px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 31%;
+float: right;
+padding: 15px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 31px;
+padding: 10px;
+}
+
+#portfolio {
+text-decoration: none;
+}
+
+#footer2 {
+position: relative;
+height: 100px;
+width: 1920px;
+}
+
+#footerleft2 {
+display: inline-block;
+font-size: 25px;
+margin-left: 10%;
+margin-top: 38px;
+}
+
+#footerright2 {
+float: right;
+font-size: 25px;
+margin-right: 10%;
+margin-top: 38px;
+}
+}
+
+
+@media (max-width: 1440px) {
+
+#all {
+height: 100%;
+width: 1440px;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+width: 1420px;
+padding: 10px 10px 10px 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 50%;
+}
+
+#Commissions {
+font-size: 34px;
+padding: 10px;
+padding-bottom: 20px;
+}
+
+#commish {
+width: 70%;
+font-size: 20px;
+padding: 0 214px 0 214px;
+border: 0;
+}
+
+#TRPsketch {
+width: 34%;
+float: right;
+padding: 15px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 34%;
+padding: 15px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 34%;
+float: right;
+padding: 15px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 27px;
+padding: 10px;
+}
+
+#portfolio {
+text-decoration: none;
+}
+
+#footer2 {
+position: relative;
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+display: inline-block;
+font-size: 23px;
+margin-left: 10%;
+margin-top: 38px;
+}
+
+#footerright2 {
+float: right;
+font-size: 23px;
+margin-right: 10%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 1366px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+width: 1346px;
+padding: 10px 10px 10px 10px;
+}
+
+#TRPheading {
+padding: 25px;
+} 
+
+#TRP {
+width: 50%;
+}
+
+#Commissions {
+font-size: 34px;
+padding: 10px;
+padding-bottom: 20px;
+}
+
+#commish {
+width: 70%;
+font-size: 20px;
+padding: 0 200px 0 200px;
+}
+
+#TRPsketch {
+width: 40%;
+float: right;
+padding: 15px;
+margin: 10px 0 10px 10px;
+}
+
+#TRPoilsketch {
+width: 40%;
+padding: 15px;
+margin: 20px 15px 20px 0;
+}
+
+#TRPprogress {
+width: 40%;
+float: right;
+padding: 15px;
+margin: 20px 0 31px 10px;
+}
+
+#Home {
+font-size: 27px;
+padding: 10px;
+}
+
+#portfolio {
+text-decoration: none;
+}
+
+#footer2 {
+position: relative;
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+display: inline-block;
+font-size: 23px;
+margin-left: 10%;
+margin-top: 38px;
+}
+
+#footerright2 {
+float: right;
+font-size: 23px;
+margin-right: 10%;
+margin-top: 38px;
+}
 }
 
 @media (max-width: 1280px) {
@@ -367,7 +625,6 @@ margin-top: 38px;
 }
 }
 
-
 @media (max-width: 601px) {
 #all {
 height: 100%;
@@ -524,7 +781,7 @@ height: 40px;
 }
 
 #footer2 {
-height: 100px;
+height: 80px;
 width: 480px;
 }
 
@@ -610,7 +867,7 @@ height: 31px;
 }
 
 #footer2 {
-height: 100px;
+height: 80px;
 width: 414px;
 }
 
