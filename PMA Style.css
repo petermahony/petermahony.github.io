@@ -1038,21 +1038,21 @@ letter-spacing: 5px;
 }
 
 #bottom-left {
-left: 32px;
+left: 31px;
 bottom: 85px; 
-font-size: 17px;
+font-size: 16px;
 }
 
 #bottom-right {
-right: 32px;
+right: 31px;
 bottom: 85px; 
-font-size: 17px;
+font-size: 16px;
 }
 
 #centered {
-left: 167px;
+left: 165px;
 bottom: 85px; 
-font-size: 17px;
+font-size: 16px;
 }
 
 #biotitle {
