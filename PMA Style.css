@@ -87,7 +87,6 @@ font-family: Palatino, Aboreto, "Times New Roman", georgia;
 font-size: 20px;
 }
 
-
 #mybio {
 clear: both;
 padding: 5px 220px 100px 220px; 
@@ -323,26 +322,27 @@ width: 61%;
 bottom: 400px; 
 font-size: 64px;
 letter-spacing: 12px;
-
 }
 
 #bottom-left { 
 left: 320px;
 bottom: 200px; 
 font-size: 32px;
+letter-spacing: 1px;
 }
 
 #bottom-right {
 right: 320px;
 bottom: 200px; 
 font-size: 32px;
+letter-spacing: 1px;
 }
 
 #centered {
 left: 48%;
 bottom: 200px; 
 font-size: 32px;
-color: #FFEEBD;
+letter-spacing: 1px;
 }
 
 #biotitle {
@@ -571,18 +571,21 @@ font-size: 77px;
 left: 67px;
 bottom: 137px; 
 font-size: 43px;
+letter-spacing: 0;
 }
 
 #bottom-right {
 right: 67px;
 bottom: 137px; 
 font-size: 43px;
+letter-spacing: 0;
 }
 
 #centered {
 left: 47%;
 bottom: 137px; 
 font-size: 43px;
+letter-spacing: 0;
 }
 
 #biotitle {
@@ -648,18 +651,21 @@ font-size: 59px;
 left: 50px;
 bottom: 115px; 
 font-size: 33px;
+letter-spacing: 0;
 }
 
 #bottom-right {
 right: 50px;
 bottom: 115px; 
 font-size: 33px;
+letter-spacing: 0;
 }
 
 #centered {
 left: 47%;
 bottom: 115px; 
 font-size: 33px;
+letter-spacing: 0;
 }
 
 #biotitle {
@@ -727,18 +733,21 @@ font-size: 55px;
 left: 50px;
 bottom: 100px; 
 font-size: 27px;
+letter-spacing: 0;
 }
 
 #bottom-right {
 right: 50px;
 bottom: 100px; 
 font-size: 27px;
+letter-spacing: 0;
 }
 
 #centered {
 left: 47%;
 bottom: 100px; 
 font-size: 27px;
+letter-spacing: 0;
 }
 
 #biotitle {
@@ -805,20 +814,22 @@ font-size: 46px;
 left: 40px;
 bottom: 92px; 
 font-size: 23px;
+letter-spacing: 0;
 }
 
 #bottom-right {
 right: 40px;
 bottom: 92px; 
 font-size: 23px;
+letter-spacing: 0;
 }
 
 #centered {
 left: 47%;
 bottom: 92px; 
 font-size: 23px;
+letter-spacing: 0;
 }
-
 
 #biotitle {
 font-size: 23px;
@@ -884,18 +895,21 @@ font-size: 40px;
 left: 40px;
 bottom: 92px; 
 font-size: 23px;
+letter-spacing: 0;
 }
 
 #bottom-right {
 right: 40px;
 bottom: 92px; 
 font-size: 23px;
+letter-spacing: 0;
 }
 
 #centered {
 left: 47%;
 bottom: 92px; 
 font-size: 23px;
+letter-spacing: 0;
 }
 
 #biotitle {
@@ -964,18 +978,21 @@ font-size: 38px;
 left: 34px;
 bottom: 92px; 
 font-size: 20px;
+letter-spacing: 0;
 }
 
 #bottom-right {
 right: 34px;
 bottom: 92px; 
 font-size: 20px;
+letter-spacing: 0;
 }
 
 #centered {
 left: 174px;
 bottom: 92px; 
 font-size: 20px;
+letter-spacing: 0;
 }
 
 #biotitle {
@@ -1038,21 +1055,24 @@ letter-spacing: 5px;
 }
 
 #bottom-left {
-left: 31px;
+left: 32px;
 bottom: 85px; 
-font-size: 16px;
+font-size: 18px;
+letter-spacing: 0;
 }
 
 #bottom-right {
-right: 31px;
+right: 32px;
 bottom: 85px; 
-font-size: 16px;
+font-size: 18px;
+letter-spacing: 0;
 }
 
 #centered {
-left: 165px;
+left: 167px;
 bottom: 85px; 
-font-size: 16px;
+font-size: 18px;
+letter-spacing: 0;
 }
 
 #biotitle {
