@@ -152,100 +152,367 @@ margin-right: 10%;
 margin-top: 38px;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1920px) {
+
 #all {
 height: 100%;
-width: 1280px;
-margin: 0;
+width: 100%;
 }
 
 #header {
-height: 267px;
-font-size: 43px;
-letter-spacing: 3px;
-width: 1260px;
-padding: 1px 10px 10px 10px;
+height: 161px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 34px;
+letter-spacing: 10px;
+}
+
+#headertext {
+color: white;
+text-decoration: none;
 }
 
 #PrintsTitle {
-font-size: 53px;
+font-size: 49px;
 padding: 40px 0 40px 0;
-}
-
-#printcon {
-display: none;
+letter-spacing: 2px;
 }
 
 #printcon2 {
-display: block;
-width: 85%;
-margin-left: auto;
-margin-right: auto;
+display: none;
+}
+
+#printcon {
+width: 67%;
 }
 
 #section1 {
-float: left;
-font-size: 31px;
+font-size: 27px;
 }
 
 #section2 {
-float: right;
-font-size: 31px;
-
+font-size: 27px;
 }
 
 #section3 {
 float: left;
-font-size: 31px;
-margin-bottom: 50px;
+font-size: 27px;
+}
+
+#printish2 {
+display: none;
 }
 
 #Prints {
-width: 37%;
-float: left;
-padding: 10px;
-margin-right: 20px;
+width: 40%;
+padding: 15px;
 }
 
 #PrintMounts{
 width: 40%;
-float: right;
-padding: 10px;
-margin-top: 20px;
-margin-left: 20px;
-margin-bottom: 20px;
-clear: both;
+padding: 15px;
 }
 
 #Postcards{
-width: 46%;
-float: left;
-padding: 10px;
-margin-top: 20px;
+width: 40%;
+padding: 15px;
 margin-right: 20px;
-clear: both;
+margin-top: 100px;
 }
 
 #Home {
+font-size: 31px;
 padding: 10px;
-font-size: 41px;
 }
 
 #footer2 {
-height: 150px;
-width: 1280px;
+height: 100px;
+width: 100%;
 }
 
 #footerleft2 {
-font-size: 25px;
-margin-left: 5%;
-margin-top: 53px;
+font-size: 19px;
+margin-left: 10%;
+margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 25px;
-margin-right: 5%;
-margin-top: 53px;
+font-size: 19px;
+margin-right: 10%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 1440px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 161px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 34px;
+letter-spacing: 10px;
+}
+
+#headertext {
+color: white;
+text-decoration: none;
+}
+
+#PrintsTitle {
+font-size: 45px;
+padding: 40px 0 40px 0;
+letter-spacing: 2px;
+}
+
+#printcon2 {
+display: none;
+}
+
+#printcon {
+width: 67%;
+}
+
+#section1 {
+font-size: 24px;
+}
+
+#section2 {
+font-size: 24px;
+}
+
+#section3 {
+float: left;
+font-size: 24px;
+}
+
+#printish2 {
+display: none;
+}
+
+#Prints {
+width: 40%;
+padding: 15px;
+}
+
+#PrintMounts{
+width: 40%;
+padding: 15px;
+}
+
+#Postcards{
+width: 40%;
+padding: 15px;
+margin-right: 20px;
+margin-top: 100px;
+}
+
+#Home {
+font-size: 31px;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 19px;
+margin-left: 10%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 19px;
+margin-right: 10%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 1366px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 140px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 31px;
+letter-spacing: 7px;
+}
+
+#headertext {
+color: white;
+text-decoration: none;
+}
+
+#PrintsTitle {
+font-size: 43px;
+padding: 40px 0 40px 0;
+letter-spacing: 2px;
+}
+
+#printcon2 {
+display: none;
+}
+
+#printcon {
+width: 67%;
+}
+
+#section1 {
+font-size: 23px;
+}
+
+#section2 {
+font-size: 23px;
+}
+
+#section3 {
+float: left;
+font-size: 23px;
+}
+
+#printish2 {
+display: none;
+}
+
+#Prints {
+width: 40%;
+padding: 15px;
+}
+
+#PrintMounts{
+width: 40%;
+padding: 15px;
+}
+
+#Postcards{
+width: 40%;
+padding: 15px;
+margin-right: 20px;
+margin-top: 100px;
+}
+
+#Home {
+font-size: 31px;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 19px;
+margin-left: 10%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 19px;
+margin-right: 10%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 1280px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 140px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 31px;
+letter-spacing: 7px;
+}
+
+#headertext {
+color: white;
+text-decoration: none;
+}
+
+#PrintsTitle {
+font-size: 43px;
+padding: 40px 0 40px 0;
+letter-spacing: 2px;
+}
+
+#printcon2 {
+display: none;
+}
+
+#printcon {
+width: 67%;
+}
+
+#section1 {
+font-size: 23px;
+}
+
+#section2 {
+font-size: 23px;
+}
+
+#section3 {
+float: left;
+font-size: 23px;
+}
+
+#printish2 {
+display: none;
+}
+
+#Prints {
+width: 40%;
+padding: 15px;
+}
+
+#PrintMounts{
+width: 40%;
+padding: 15px;
+}
+
+#Postcards{
+width: 40%;
+padding: 15px;
+margin-right: 20px;
+margin-top: 100px;
+}
+
+#Home {
+font-size: 31px;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 19px;
+margin-left: 10%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 19px;
+margin-right: 10%;
+margin-top: 38px;
 }
 }
 
@@ -355,7 +622,7 @@ margin: 0;
 
 #header {
 height: 200px;
-font-size: 31px;
+font-size: 27px;
 letter-spacing: 3px;
 width: 748px;
 padding: 10px;
