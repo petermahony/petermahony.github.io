@@ -1,7 +1,7 @@
 #all {
 background-color: #A4BECF;
-height: 100%;
 width: 100%;
+height: 100%;
 }
 
 #header {
@@ -21,7 +21,95 @@ color: white;
 text-decoration: none;
 }
 
-#OchreSky {
+#painting1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: left;
+width: 47%;
+}
+
+
+#info1 {
+position: relative;
+float: right;
+top: 340px;
+right: 492px;
+width: 150px;
+font-size: 17px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#portfolioframed1 {
+display: block;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 905px;
+width: 31.5%;
+}
+
+#bio1 {
+position: relative;
+float: left;
+bottom: 195px;
+left: 85px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB
+}
+
+
+#painting2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: left;
+width: 45%;
+}
+
+#info2 {
+position: relative;
+float: right;
+top: 415px;
+width: 500px;
+right: 170px;
+font-size: 17px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 872px;
+width: 33.5%;
+}
+
+#bio2 {
+position: relative;
+float: left;
+bottom: 220px;
+left: 85px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB 
+}
+
+#painting3 {
 position: relative;
 padding: 25px;
 background-color: #546875;
@@ -29,124 +117,40 @@ float: left;
 width: 50%;
 }
 
-#ochreskyinfo {
+#info3 {
 position: relative;
 float: right;
-top: 355px;
-right: 470px;
-width: 125px;
+top: 475px;
+right: 475px;
+width: 124px;
 font-size: 17px;
 font-family: candara, sans-serif;
 color: black
 }
 
-#OchreSkyWall {
+#paintingframed3 {
 position: relative;
 padding: 25px;
 background-color: #546875;
 float: right;
 clear: left;
-padding-left: 811px;
-width: 38%;
+padding-left: 853px;
+width: 35%;
 }
 
-#ochreskywallbio {
-position: relative;
-float: left;
-bottom: 231px;
-left: 70px;
-width: 700px;
-height: 0px;
-font-size: 17px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#GouganeBarra {
-position: relative;
-padding: 25px;
-background-color: #546875;
-float: left;
-width: 41.5%;
-}
-
-#GouganeBarrainfo {
-position: relative;
-float: right;
-top: 370px;
-right: 550px;
-width: 150px;
-font-size: 17px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#GouganeBarraframed {
-position: relative;
-padding: 25px;
-background-color: #546875;
-float: right;
-clear: left;
-padding-left: 846px;
-width: 35.5%;
-}
-
-#GouganeBarrabio {
+#bio3 {
 position: relative;
 float: left;
 bottom: 225px;
-left: 70px;
+left: 85px;
 width: 700px;
 height: 0px;
-font-size: 17px;
+font-size: 20px;
 font-family: Aboreto, "Times New Roman", georgia;
 color: #FFE8AB
 }
 
-#TheLough {
-position: relative;
-padding: 18px;
-background-color: #546875;
-float: left;
-width: 41%;
-}
-
-#TheLoughinfo {
-position: relative;
-float: right;
-top: 362px;
-right: 575px;
-width: 150px;
-font-size: 17px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#TheLoughframed {
-position: relative;
-padding: 25px;
-background-color: #546875;
-float: right;
-clear: left;
-padding-left: 811px;
-width: 40%;
-}
-
-#TheLoughbio {
-position: relative;
-float: left;
-bottom: 225px;
-left: 55px;
-width: 700px;
-height: 0px;
-font-size: 17px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-
-
-#Home {
+#nxtpge {
 position: relative;
 clear: both;
 text-align: center;
@@ -185,198 +189,1153 @@ margin-right: 10%;
 margin-top: 38px;
 }
 
-@media (max-width: 360px) {
-	
+@media (max-width: 1920px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+padding: 10px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 677px;
+width: 100%;
+}
+
+#painting1 {
+width: 50%;
+}
+
+#info1 {
+top: 510px;
+right: 670px;
+width: 190px;
+font-size: 20px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 492px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 285px;
+left: 185px;
+width: 770px;
+height: 0px;
+font-size: 23px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 822px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 50%;
+}
+
+#info2 {
+top: 649px;
+right: 670px;
+width: 190px;
+font-size: 20px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 547px;
+width: 100%;
+}
+
+#paintingframed2 {
+padding: 25px;
+padding-left: 100%;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 310px;
+left: 185px;
+width: 870px;
+height: 0px;
+font-size: 23px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 841px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 50%;
+}
+
+#info3 {
+top: 640px;
+right: 670px;
+width: 190px;
+font-size: 20px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 100%;
+width: 35%;
+}
+
+#bio3 {
+bottom: 285px;
+left: 185px;
+width: 910px;
+height: 0px;
+font-size: 23px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 34px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 40px;
+}
+
+#footerright2 {
+font-size: 20px;
+margin-right: 5%;
+margin-top: 40px;
+}
+}
+
+@media (max-width: 1440px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+padding: 10px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 520px;
+width: 100%;
+}
+
+#painting1 {
+width: 50%;
+}
+
+#info1 {
+top: 370px;
+right: 474px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 380px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 240px;
+left: 110px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 628px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 50%;
+}
+
+#info2 {
+top: 470px;
+right: 474px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 421px;
+width: 100%;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 240px;
+left: 110px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 642px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 50%;
+}
+
+#info3 {
+top: 470px;
+right: 474px;
+width: 170px;
+font-size: 18px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 100%;
+width: 35%;
+}
+
+#bio3 {
+bottom: 255px;
+left: 110px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 34px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 40px;
+}
+
+#footerright2 {
+font-size: 20px;
+margin-right: 5%;
+margin-top: 40px;
+}
+}
+
+@media (max-width: 1366px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+width: 1346px;
+padding: 10px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 485px;
+width: 100%;
+}
+
+#painting1 {
+width: 49%;
+}
+
+#info1 {
+top: 340px;
+right: 443px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 364px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 220px;
+left: 100px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 586px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 49%;
+}
+
+#info2 {
+top: 443px;
+right: 443px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 402px;
+width: 100%;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 220px;
+left: 100px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 600px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 49%;
+}
+
+#info3 {
+top: 447px;
+right: 443px;
+width: 170px;
+font-size: 18px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 100%;
+width: 35%;
+}
+
+#bio3 {
+bottom: 220px;
+left: 100px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 34px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 40px;
+}
+
+#footerright2 {
+font-size: 20px;
+margin-right: 5%;
+margin-top: 40px;
+}
+}
+
+@media (max-width: 1280px) {
+
+#all {
+height: 100%;
+width: 1280px;
+margin: 0;
+}
+
+#header {
+height: 230px;
+font-size: 34px;
+letter-spacing: 3px;
+padding: 1px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 466px;
+width: 100%;
+}
+
+#painting1 {
+width: 50%;
+}
+
+#info1 {
+top: 325px;
+right: 392px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 343px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 905px;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 200px;
+left: 61px;
+width: 700px;
+height: 0px;
+font-size: 21px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 563px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 50%;
+}
+
+#info2 {
+top: 424px;
+right: 400px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 380px;
+width: 100%;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 872px;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 247px;
+left: 61px;
+width: 700px;
+height: 0px;
+font-size: 21px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 576px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 50%;
+}
+
+#info3 {
+top: 424px;
+right: 395px;
+width: 170px;
+font-size: 18px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 853px;
+width: 35%;
+}
+
+#bio3 {
+bottom: 225px;
+left: 61px;
+width: 700px;
+height: 0px;
+font-size: 21px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 41px;
+}
+
+#footer2 {
+height: 150px;
+width: 1280px;
+}
+
+#footerleft2 {
+font-size: 25px;
+margin-left: 5%;
+margin-top: 53px;
+}
+
+#footerright2 {
+font-size: 25px;
+margin-right: 5%;
+margin-top: 53px;
+}
+}
+
+@media (max-width: 992px) {
+
 .biotext {
 display: none;
 }
 
 #all {
-background-color: #A4BECF;
 height: 100%;
-width: 360px;
+width: 992px;
 margin: 0;
 }
 
 #header {
-background-color: #829BB9;
-color: white; 
-text-align: center;
-font-family: Aboreto, "Times New Roman", georgia;
-height: 124px;
-font-size: 20px;
-letter-spacing: 3px;
-width: 340px;
-padding: 10px;
-}
-
-#galochresky {
-display: inline-block;
-height: 204px;
-}
-
-#OchreSky {
-position: relative;
-float: left;
-padding: 10px;
-background-color: #546875;
-width: 80%;
-}
-
-#ochreskyinfo {
-position: relative;
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-font-family: candara, sans-serif;
-color: black;
-}
-
-#galochreskywall {
-display: inline-block;
-height: 140px;
-}
-
-
-#OchreSkyWall {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#ochreskywallbio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 34px;
-width: 140px;
-height: 0px;
-font-size: 8px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#galGouganeBarra {
-display: inline-block;
-height: 248px;
-}
-
-#GouganeBarra {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: left;
-width: 80%;
-}
-
-#GouganeBarrainfo {
-position: relative;
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#galGouganeBarraframed {
-display: inline-block;
-height: 148px;
-}
-
-#GouganeBarraframed {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#GouganeBarrabio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 20px;
-width: 180px;
-height: 0px;
-font-size: 8px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#galTheLough {
-display: inline-block;
-height: 253px;
-}
-
-
-#TheLough {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: left;
-width: 80%;
-}
-
-#TheLoughinfo {
-position: relative;
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-font-family: candara, sans-serif;
-color: black
-}
-
-#TheLoughframed {
-position: relative;
-padding: 10px;
-background-color: #546875;
-float: right;
-clear: left;
-width: 50%;
-}
-
-#TheLoughbio {
-position: relative;
-float: left;
-bottom: 85px;
-left: 17px;
-width: 180px;
-height: 0px;
-font-size: 8px;
-font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
-}
-
-#Home {
-position: relative;
-clear: both;
-text-align: center;
-color: #FFE8AB;
-background-color: #829BB9;
-padding: 10px;
-text-decoration: underline
-}
-
-
-#portfolio {
-color: #FFE8AB;
-text-decoration: none;
+height: 200px;
 font-size: 31px;
+letter-spacing: 3px;
+padding: 10px;
 }
 
+#portfolio1 {
+display: inline-block;
+height: 538px;
+}
+
+#painting1 {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#info1 {
+float: left;
+clear: left;
+top: 140px;
+left: 115px;
+width: 161px;
+font-size: 22px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 375px;
+}
+
+#paintingframed1 {
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 577px;
+}
+
+#painting2 {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+}
+
+#info2 {
+float: left;
+clear: left;
+top: 140px;
+left: 115px;
+width: 161px;
+font-size: 22px;
+}
+
+#portfolioframed2{
+display: inline-block;
+height: 379px;
+}
+
+#paintingframed2 {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 674px;
+}
+
+#painting3 {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#info3 {
+float: left;
+clear: left;
+top: 140px;
+left: 115px;
+width: 161px;
+font-size: 22px;
+}
+
+#paintingframed3 { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#nxtpge {
+font-size: 31px;
+padding: 10px;
+height: 40px;
+}
 
 #footer2 {
 height: 100px;
+width: 992px;
+}
+
+#footerleft2 {
+font-size: 25px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 25px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 768px) {
+
+.biotext {
+display: none;
+}
+	
+#all {
+height: 100%;
+width: 768px;
+margin: 0;
+}
+
+#header {
+height: 200px;
+font-size: 31px;
+letter-spacing: 3px;
+width: 748px;
+padding: 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 420px;
+}
+
+#painting1 {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#info1 {
+float: left;
+clear: left;
+top: 100px;
+left: 100px;
+width: 150px;
+font-size: 20px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 294px;
+}
+
+#paintingframed1 {
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 451px;
+}
+
+#painting2 {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+}
+
+#info2 {
+float: left;
+clear: left;
+top: 100px;
+left: 100px;
+width: 150px;
+font-size: 20px;
+}
+
+#portfolioframed2{
+display: inline-block;
+height: 297px;
+}
+
+#paintingframed2 {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 525px;
+}
+
+#painting3 {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#info3 {
+float: left;
+clear: left;
+top: 100px;
+left: 100px;
+width: 150px;
+font-size: 20px;
+}
+
+#paintingframed3 { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#bio3 {
+display: none;
+}
+
+#nxtpge {
+font-size: 31px;
+padding: 10px;
+height: 40px;
+}
+
+#footer2 {
+height: 100px;
+width: 768px;
+}
+
+#footerleft2 {
+font-size: 18px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 18px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 601px) {
+
+.biotext {
+display: none;
+}
+
+#all {
+height: 100%;
+width: 601px;
+margin: 0;
+}
+
+#header {
+height: 133px;
+font-size: 23px;
+letter-spacing: 3px;
+width: 581px;
+padding: 1px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 332px;
+}
+
+#painting1 {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#info1 {
+float: left;
+top: 67px;
+left: 67px;
+width: 140px;
+font-size: 17px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 233px;
+}
+
+#paintingframed1 {
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 356px;
+}
+
+#painting2 {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+}
+
+#info2 {
+float: left;
+clear: left;
+top: 67px;
+left: 67px;
+width: 140px;
+font-size: 17px;
+}
+
+#portfolioframed2{
+display: inline-block;
+height: 236px;
+}
+
+#paintingframed2 {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 414px;
+}
+
+#painting3 {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#info3 {
+float: left;
+clear: right;
+top: 67px;
+left: 67px;
+width: 140px;
+font-size: 17px;
+}
+
+#paintingframed3 { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#bio3 {
+display: none;
+}
+
+#nxtpge {
+font-size: 27px;
+padding: 10px;
+}
+
+#footer2 {
+height: 100px;
+width: 601px;
+}
+
+#footerleft2 {
+font-size: 17px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 17px;
+margin-right: 5%;
+margin-top: 38px;
+}
+}
+
+@media (max-width: 480px) {
+	
+.biotext {
+display: none;
+}
+	
+#all {
+height: 100%;
+width: 480px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 460px;
+padding: 10px;
+}
+
+
+#portfolio1 {
+display: inline-block;
+height: 268px;
+}
+
+#painting1 {
+padding: 10px;
+float: left;
+width: 80%;
+}
+
+#info1 {
+float: left;
+top: 50px;
+left: 50px;
+width: 115px;
+font-size: 15px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 190px;
+}
+
+
+#paintingframed1 {
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 287px;
+}
+
+#painting2 {
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+}
+
+#info2 {
+float: left;
+clear: left;
+top: 50px;
+left: 50px;
+width: 115px;
+font-size: 15px;
+}
+
+#portfolioframed2{
+display: inline-block;
+height: 191px;
+}
+
+#paintingframed2 {
+padding: 10px;
+float: right;
+clear: left;
+width: 47%;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 334px;
+}
+
+#painting3 {
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#info3 {
+float: left;
+clear: right;
+top: 50px;
+left: 50px;
+width: 115px;
+font-size: 15px;
+}
+
+#paintingframed3 { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#bio3 {
+display: none;
+}
+
+#nxtpge {
+font-size: 27px;
+padding: 10px;
+}
+
+#footer2 {
+height: 80px;
 width: 480px;
 }
 
@@ -391,157 +1350,6 @@ font-size: 14px;
 margin-right: 5%;
 margin-top: 38px;
 }
-	
-}
-
-@media (max-width: 375px) {
-	
-.biotext {
-display: none;
-}
-
-#all {
-height: 100%;
-width: 375px;
-margin: 0;
-}
-
-#header {
-height: 124px;
-font-size: 20px;
-letter-spacing: 3px;
-width: 355px;
-padding: 10px;
-}
-
-#galochresky {
-display: inline-block;
-height: 212.2px;
-}
-
-#OchreSky {
-position: relative;
-float: left;
-padding: 10px;
-width: 80%;
-}
-
-#ochreskyinfo {
-position: relative;
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#galochreskywall {
-display: inline-block;
-height: 146.1px;
-}
-
-
-#OchreSkyWall {
-position: relative;
-padding: 10px;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#ochreskywallbio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 34px;
-width: 140px;
-height: 0px;
-font-size: 8px;
-}
-
-#galGouganeBarra {
-display: inline-block;
-height: 258.1px;
-}
-
-#GouganeBarra {
-position: relative;
-padding: 10px;
-float: left;
-width: 80%;
-}
-
-#GouganeBarrainfo {
-position: relative;
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#galGouganeBarraframed {
-display: inline-block;
-height: 154px;
-}
-
-#GouganeBarraframed {
-padding: 10px;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#galTheLough {
-display: inline-block;
-height: 265.1px;
-}
-
-#TheLough {
-position: relative;
-padding: 10px;
-float: left;
-width: 80%;
-}
-
-#TheLoughinfo {
-position: relative;
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#TheLoughframed {
-position: relative;
-padding: 10px;
-float: right;
-clear: left;
-width: 50%;
-}
-
-#portfolio {
-font-size: 31px;
-}
-
-#footer2 {
-height: 100px;
-width: 480px;
-}
-
-#footerleft2 {
-font-size: 14px;
-margin-left: 5%;
-margin-top: 38px;
-}
-
-#footerright2 {
-font-size: 14px;
-margin-right: 5%;
-margin-top: 38px;
-}
-	
 }
 
 @media (max-width: 414px) {
@@ -564,147 +1372,134 @@ width: 394px;
 padding: 10px;
 }
 
-#galochresky {
+#portfolio1 {
 display: inline-block;
-height: 234px;
+height: 233px;
 }
 
-#OchreSky {
-position: relative;
-float: left;
+#painting1 {
 padding: 10px;
+float: left;
 width: 80%;
 }
 
-#ochreskyinfo {
-position: relative;
+#info1 {
 float: left;
 top: 40px;
 left: 40px;
-width: 110px;
+width: 115px;
 font-size: 14px;
 }
 
-#galochreskywall {
+#portfolioframed1 {
 display: inline-block;
-height: 160.1px;
+height: 165px;
 }
 
 
-#OchreSkyWall {
-position: relative;
+#paintingframed1 {
 padding: 10px;
 float: right;
 clear: left;
-width: 47%;
+width: 49%;
 }
 
-#ochreskywallbio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 34px;
-width: 140px;
-height: 0px;
-font-size: 8px;
+#bio1 {	
+display: none;
 }
 
-#galGouganeBarra {
+#portfolio2 {
 display: inline-block;
-height: 284px;
+height: 251px;
 }
 
-#GouganeBarra {
-position: relative;
+#painting2 {
 padding: 10px;
 float: left;
-width: 80%;
+clear: right;
+width: 70%;
 }
 
-#GouganeBarrainfo {
-position: relative;
+#info2 {
 float: left;
 top: 40px;
 left: 40px;
-width: 110px;
+width: 115px;
 font-size: 14px;
 }
 
-#galGouganeBarraframed {
+#portfolioframed2{
 display: inline-block;
 height: 167px;
 }
 
-#GouganeBarraframed {
-position: relative;
+#paintingframed2 {
 padding: 10px;
 float: right;
 clear: left;
 width: 47%;
 }
 
-#GouganeBarrabio {
-position: relative;
-float: left;
-bottom: 80px;
-left: 20px;
-width: 180px;
-height: 0px;
-font-size: 8px;
+#bio2 {
+display: none;	
 }
 
-#galTheLough {
+#portfolio3 {
 display: inline-block;
-height: 290.2px;
+height: 290px;
 }
 
-#TheLough {
-position: relative;
+#painting3 {
 padding: 10px;
 float: left;
+clear: right;
 width: 80%;
 }
 
-#TheLoughinfo {
-position: relative;
+#info3 {
 float: left;
-top: 40px;
+clear: right;
+top: 31px;
 left: 40px;
-width: 110px;
+width: 115px;
 font-size: 14px;
 }
 
-#TheLoughframed {
+#paintingframed3 { 
 padding: 10px;
 float: right;
 clear: left;
-width: 50%;
+width: 49%;
 }
 
-#Home {
+#bio3 {
+display: none;	
+}
+
+#nxtpge {
+font-size: 25px;
 padding: 10px;
 }
 
 #footer2 {
-height: 100px;
-width: 480px;
+height: 80px;
+width: 414px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 12px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
+font-size: 12px;
 margin-right: 5%;
 margin-top: 38px;
 }
-	
 }
 
-@media (max-width: 480px) {
+@media (max-width: 375px) {
 	
 .biotext {
 display: none;
@@ -712,7 +1507,7 @@ display: none;
 
 #all {
 height: 100%;
-width: 480px;
+width: 375px;
 margin: 0;
 }
 
@@ -720,23 +1515,22 @@ margin: 0;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
-width: 460px;
+width: 355px;
 padding: 10px;
 }
 
-#galochresky {
+#portfolio1 {
 display: inline-block;
-height: 269.1px;
+height: 213px;
 }
 
-#OchreSky {
-float: left;
+#painting1 {
 padding: 10px;
+float: left;
 width: 80%;
 }
 
-#ochreskyinfo {
-position: relative;
+#info1 {
 float: left;
 top: 40px;
 left: 40px;
@@ -744,63 +1538,35 @@ width: 110px;
 font-size: 14px;
 }
 
-#galochreskywall {
+#portfolioframed1 {
 display: inline-block;
-height: 183px;
+height: 151px;
 }
 
-
-#OchreSkyWall {
+#paintingframed1 {
 padding: 10px;
 float: right;
 clear: left;
-width: 47%;
+width: 49%;
 }
 
-#galGouganeBarra {
+#bio1 {	
+display: none;
+}
+
+#portfolio2 {
 display: inline-block;
-height: 325px;
+height: 227px;
 }
 
-#GouganeBarra {
+#painting2 {
 padding: 10px;
 float: left;
-width: 80%;
+clear: right;
+width: 70%;
 }
 
-#GouganeBarrainfo {
-float: left;
-top: 40px;
-left: 40px;
-width: 110px;
-font-size: 14px;
-}
-
-#galGouganeBarraframed {
-display: inline-block;
-height: 192px;
-}
-
-#GouganeBarraframed {
-position: relative;
-padding: 10px;
-float: right;
-clear: left;
-width: 47%;
-}
-
-#galTheLough {
-display: inline-block;
-height: 334px;
-}
-
-#TheLough {
-padding: 10px;
-width: 80%;
-}
-
-#TheLoughinfo {
-position: relative;
+#info2 {
 float: left;
 top: 40px;
 left: 40px;
@@ -808,32 +1574,265 @@ width: 110px;
 font-size: 14px;
 }
 
-#TheLoughframed {
+#portfolioframed2{
+display: inline-block;
+height: 162px;
+}
+
+#paintingframed2 {
 padding: 10px;
 float: right;
 clear: left;
 width: 50%;
 }
 
-#Home {
+#bio2 {
+display: none;	
+}
+
+#portfolio3 {
+display: inline-block;
+height: 264px;
+}
+
+#painting3 {
 padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+}
+
+#info3 {
+float: left;
+clear: right;
+top: 31px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+}
+
+#paintingframed3 { 
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+}
+
+#bio3 {
+display: none;	
+}
+
+#nxtpge {
+clear: both;
+text-align: center;
+padding: 10px; 
+font-size: 25px;
 }
 
 #footer2 {
-height: 100px;
-width: 480px;
+height: 80px;
+width: 375px;
 }
 
 #footerleft2 {
-font-size: 14px;
+font-size: 12px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 14px;
+font-size: 12px;
 margin-right: 5%;
 margin-top: 38px;
 }
+}
+
+@media (max-width: 360px) {
 	
+.biotext {
+display: none;
+}
+	
+#all {
+height: 100%;
+width: 360px;
+margin: 0;
+}
+
+#header {
+height: 124px;
+font-size: 20px;
+letter-spacing: 3px;
+width: 340px;
+padding: 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 205px;
+}
+
+
+#painting1 {
+padding: 10px;
+width: 80%;
+}
+
+#info1 {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 146px;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+background-color: #546875;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 219px;
+}
+
+#painting2 {
+position: relative;
+padding: 10px;
+float: left;
+clear: right;
+width: 70%;
+background-color: #546875;
+}
+
+#info2 {
+position: relative;
+float: left;
+top: 40px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 147px;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 10px;
+float: right;
+clear: left;
+background-color: #546875;
+width: 47%;
+}
+
+#bio2 {
+display: none;	
+position: relative;
+float: left;
+bottom: 0px;
+left: 0px;
+width: 0px;
+height: 0px;
+font-size: 0px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB; 
+}
+
+#portfolio3 {
+display: inline-block;
+height: 253px;
+}
+
+#painting3 {
+position: relative;
+padding: 10px;
+float: left;
+clear: right;
+width: 80%;
+background-color: #546875;
+}
+
+#info3 {
+position: relative;
+float: left;
+clear: right;
+top: 31px;
+left: 40px;
+width: 110px;
+font-size: 14px;
+font-family: candara, sans-serif;
+color: black
+}
+
+#paintingframed3 { 
+position: relative;
+padding: 10px;
+float: right;
+clear: left;
+width: 49%;
+background-color: #546875;
+}
+
+#bio3 {
+display: none;	
+position: relative;
+float: left;
+bottom: 0px;
+left: 0px;
+width: 0px;
+height: 0px;
+font-size: 0px;
+font-family: Aboreto, "Times New Roman", georgia;
+color: #FFE8AB;
+}
+
+#nxtpge {
+position: relative;
+clear: both;
+text-align: center;
+color: #FFE8AB;
+background-color: #829BB9;
+padding: 10px;
+text-decoration: underline;
+}
+
+#portfolio {
+color: #FFE8AB;
+text-decoration: none;
+font-size: 25px;
+}
+
+#footer2 {
+height: 85px;
+width: 360px;
+}
+
+#footerleft2 {
+font-size: 11px;
+margin-left: 5%;
+margin-top: 38px;
+}
+
+#footerright2 {
+font-size: 11px;
+margin-right: 5%;
+margin-top: 38px;
+}
 }
