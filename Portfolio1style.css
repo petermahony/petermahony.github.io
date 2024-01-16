@@ -189,25 +189,480 @@ margin-right: 10%;
 margin-top: 38px;
 }
 
+@media (max-width: 1920px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+padding: 10px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 804px;
+width: 100%;
+}
+
+#painting1 {
+width: 50%;
+}
+
+#info1 {
+top: 600px;
+right: 670px;
+width: 190px;
+font-size: 20px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 622px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 400px;
+left: 185px;
+width: 910px;
+height: 0px;
+font-size: 23px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 848px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 50%;
+}
+
+#info2 {
+top: 661px;
+right: 670px;
+width: 190px;
+font-size: 20px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 620px;
+width: 100%;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 380px;
+left: 185px;
+width: 870px;
+height: 0px;
+font-size: 23px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 686px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 50%;
+}
+
+#info3 {
+top: 510px;
+right: 670px;
+width: 190px;
+font-size: 20px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 100%;
+width: 35%;
+}
+
+#bio3 {
+bottom: 340px;
+left: 185px;
+width: 910px;
+height: 0px;
+font-size: 23px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 34px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 40px;
+}
+
+#footerright2 {
+font-size: 20px;
+margin-right: 5%;
+margin-top: 40px;
+}
+}
+
+@media (max-width: 1440px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+padding: 10px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 615px;
+width: 100%;
+}
+
+#painting1 {
+width: 50%;
+}
+
+#info1 {
+top: 410px;
+right: 474px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 479px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 315px;
+left: 100px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 647px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 50%;
+}
+
+#info2 {
+top: 485px;
+right: 474px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 476px;
+width: 100%;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 300px;
+left: 85px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 527px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 50%;
+}
+
+#info3 {
+top: 385px;
+right: 474px;
+width: 170px;
+font-size: 18px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 100%;
+width: 35%;
+}
+
+#bio3 {
+bottom: 255px;
+left: 61px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 34px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 40px;
+}
+
+#footerright2 {
+font-size: 20px;
+margin-right: 5%;
+margin-top: 40px;
+}
+}
+
+@media (max-width: 1366px) {
+
+#all {
+height: 100%;
+width: 100%;
+}
+
+#header {
+height: 220px;
+font-size: 32px;
+letter-spacing: 5px;
+padding: 10px 10px 10px 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 585px;
+width: 100%;
+}
+
+#painting1 {
+width: 50%;
+}
+
+#info1 {
+top: 430px;
+right: 431px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 430px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 315px;
+left: 85px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 616px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 50%;
+}
+
+#info2 {
+top: 455px;
+right: 431px;
+width: 170px;
+font-size: 18px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 454px;
+width: 100%;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 100%;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 250px;
+left: 85px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 501px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 50%;
+}
+
+#info3 {
+top: 362px;
+right: 431px;
+width: 170px;
+font-size: 18px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 100%;
+width: 35%;
+}
+
+#bio3 {
+bottom: 220px;
+left: 85px;
+width: 700px;
+height: 0px;
+font-size: 20px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 34px;
+}
+
+#footer2 {
+height: 100px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 40px;
+}
+
+#footerright2 {
+font-size: 20px;
+margin-right: 5%;
+margin-top: 40px;
+}
+}
+
 @media (max-width: 1280px) {
 
 #all {
 height: 100%;
-width: 1280px;
+width: 100%;
 margin: 0;
 }
 
 #header {
-height: 267px;
-font-size: 43px;
+height: 230px;
+font-size: 34px;
 letter-spacing: 3px;
-width: 1260px;
 padding: 1px 10px 10px 10px;
 }
 
 #portfolio1 {
 display: inline-block;
-height: 542px;
+height: 541px;
 width: 100%;
 }
 
@@ -219,7 +674,13 @@ width: 49%;
 top: 400px;
 right: 410px;
 width: 170px;
-font-size: 23px;
+font-size: 20px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 430px;
+width: 100%;
 }
 
 #paintingframed1 {
@@ -237,9 +698,14 @@ bottom: 315px;
 left: 61px;
 width: 700px;
 height: 0px;
-font-size: 25px;
+font-size: 23px;
 }
 
+#portfolio2 {
+display: inline-block;
+height: 580px;
+width: 100%;
+}
 
 #painting2 {
 padding: 25px;
@@ -250,12 +716,12 @@ width: 50%;
 top: 400px;
 right: 400px;
 width: 170px;
-font-size: 23px;
+font-size: 20px;
 }
 
-#portfolioframed1 {
+#portfolioframed2 {
 display: inline-block;
-height: 430px;
+height: 429px;
 width: 100%;
 }
 
@@ -274,7 +740,13 @@ bottom: 300px;
 left: 61px;
 width: 700px;
 height: 0px;
-font-size: 25px;
+font-size: 23px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 472px;
+width: 100%;
 }
 
 #painting3 {
@@ -286,7 +758,7 @@ width: 50%;
 top: 325px;
 right: 395px;
 width: 170px;
-font-size: 23px;
+font-size: 20px;
 }
 
 #paintingframed3 {
@@ -296,31 +768,31 @@ width: 35%;
 }
 
 #bio3 {
-bottom: 255px;
+bottom: 247px;
 left: 61px;
 width: 700px;
 height: 0px;
-font-size: 25px;
+font-size: 23px;
 }
 
 #nxtpge {
 padding: 10px;
-font-size: 41px;
+font-size: 34px;
 }
 
 #footer2 {
 height: 150px;
-width: 1280px;
+width: 100%;
 }
 
 #footerleft2 {
-font-size: 25px;
+font-size: 20px;
 margin-left: 5%;
 margin-top: 53px;
 }
 
 #footerright2 {
-font-size: 25px;
+font-size: 20px;
 margin-right: 5%;
 margin-top: 53px;
 }
@@ -342,7 +814,6 @@ margin: 0;
 height: 200px;
 font-size: 31px;
 letter-spacing: 3px;
-width: 972px;
 padding: 10px;
 }
 
@@ -384,7 +855,7 @@ display: none;
 
 #portfolio2 {
 display: inline-block;
-height: 544px;
+height: 596px;
 }
 
 #painting2 {
@@ -772,7 +1243,6 @@ margin-right: 5%;
 margin-top: 38px;
 }
 }
-
 
 @media (max-width: 480px) {
 	
