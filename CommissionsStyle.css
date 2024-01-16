@@ -43,7 +43,8 @@ background-color: #546875;
 
 #commish {
 width: 70%;
-padding-left: 157px;
+padding-left: 15%;
+padding-right: 15%;
 font-size: 20px;
 color: #FFEEBD;
 background-color: #546875;
@@ -117,15 +118,15 @@ margin-top: 38px;
 
 #all {
 height: 100%;
-width: 1920px;
+width: 100%;
 }
 
 #header {
-height: 220px;
-font-size: 32px;
-letter-spacing: 5px;
-width: 1900px;
-padding: 10px 10px 10px 10px;
+height: 161px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 34px;
+letter-spacing: 10px;
 }
 
 #TRPheading {
@@ -145,8 +146,6 @@ padding-bottom: 20px;
 #commish {
 width: 70%;
 font-size: 23px;
-padding: 0 300px 0 300px;
-border: 0;
 }
 
 #TRPsketch {
@@ -199,20 +198,19 @@ margin-top: 38px;
 }
 }
 
-
 @media (max-width: 1440px) {
 
 #all {
 height: 100%;
-width: 1440px;
+width: 100%;
 }
 
 #header {
-height: 220px;
-font-size: 32px;
-letter-spacing: 5px;
-width: 1420px;
-padding: 10px 10px 10px 10px;
+height: 161px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 34px;
+letter-spacing: 10px;
 }
 
 #TRPheading {
@@ -232,8 +230,6 @@ padding-bottom: 20px;
 #commish {
 width: 70%;
 font-size: 20px;
-padding: 0 214px 0 214px;
-border: 0;
 }
 
 #TRPsketch {
@@ -294,11 +290,11 @@ width: 100%;
 }
 
 #header {
-height: 220px;
-font-size: 32px;
-letter-spacing: 5px;
-width: 1346px;
-padding: 10px 10px 10px 10px;
+height: 140px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 31px;
+letter-spacing: 7px;
 }
 
 #TRPheading {
@@ -318,7 +314,6 @@ padding-bottom: 20px;
 #commish {
 width: 70%;
 font-size: 20px;
-padding: 0 200px 0 200px;
 }
 
 #TRPsketch {
@@ -379,8 +374,8 @@ margin: 0;
 }
 
 #header {
-height: 267px;
-font-size: 43px;
+height: 230px;
+font-size: 34px;
 letter-spacing: 3px;
 width: 1260px;
 padding: 1px 10px 10px 10px;
@@ -395,38 +390,36 @@ width: 80%;
 }
 
 #Commissions {
-font-size: 50px;
+font-size: 40px;
 padding: 10px;
 padding-bottom: 20px;
 background-color: #546875;
 }
 
 #commish {
-width: 80%;
-margin-left: auto;
-margin-right: auto;
-font-size: 31px;
-padding-left: 0;
-clear: both;
+width: 70%;
+padding-left: 15%;
+padding-right: 15%;
+font-size: 24px;
 margin-bottom: 25px;
 }
 
 #TRPsketch {
-width: 50%;
+width: 47%;
 float: right;
 padding: 10px;
 margin: 10px 0 10px 10px;
 }
 
 #TRPoilsketch {
-width: 50%;
+width: 47%;
 float: left;
 padding: 10px;
 margin: 20px 15px 20px 0;
 }
 
 #TRPprogress {
-width: 50%;
+width: 47%;
 float: right;
 padding: 10px;
 margin: 20px 0 31px 10px;
@@ -434,7 +427,7 @@ margin: 20px 0 31px 10px;
 
 #Home {
 padding: 10px;
-font-size: 41px;
+font-size: 34px;
 }
 
 #footer2 {
@@ -443,13 +436,13 @@ width: 1280px;
 }
 
 #footerleft2 {
-font-size: 25px;
+font-size: 20px;
 margin-left: 5%;
 margin-top: 53px;
 }
 
 #footerright2 {
-font-size: 25px;
+font-size: 20px;
 margin-right: 5%;
 margin-top: 53px;
 }
@@ -466,7 +459,6 @@ margin: 0;
 height: 200px;
 font-size: 31px;
 letter-spacing: 3px;
-width: 972px;
 padding: 10px;
 }
 
@@ -487,11 +479,9 @@ background-color: #546875;
 
 #commish {
 width: 80%;
-margin-left: auto;
-margin-right: auto;
+padding-left: 10%;
+padding-right: 10%;
 font-size: 25px;
-padding-left: 0;
-clear: both;
 margin-bottom: 25px;
 }
 
@@ -569,15 +559,11 @@ padding-bottom: 20px;
 background-color: #546875;
 }
 
-
 #commish {
 width: 80%;
-margin-left: auto;
-margin-right: auto;
+padding-left: 10%;
+padding-right: 10%;
 font-size: 25px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
 }
 
 #TRPsketch {
@@ -658,12 +644,9 @@ background-color: #546875;
 
 #commish {
 width: 80%;
-margin-left: auto;
-margin-right: auto;
+padding-left: 10%;
+padding-right: 10%;
 font-size: 20px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
 }
 
 #TRPsketch {
@@ -745,12 +728,9 @@ background-color: #546875;
 
 #commish {
 width: 80%;
-margin-left: auto;
-margin-right: auto;
+padding-left: 10%;
+padding-right: 10%;
 font-size: 20px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
 }
 
 #TRPsketch {
@@ -831,12 +811,9 @@ padding-bottom: 20px;
 
 #commish {
 width: 80%;
-margin-left: auto;
-margin-right: auto;
+padding-left: 10%;
+padding-right: 10%;
 font-size: 20px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
 }
 
 #TRPsketch {
@@ -917,12 +894,9 @@ padding-bottom: 20px;
 
 #commish {
 width: 80%;
-margin-left: auto;
-margin-right: auto;
+padding-left: 10%;
+padding-right: 10%;
 font-size: 20px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
 }
 
 #TRPsketch {
@@ -1003,12 +977,9 @@ padding-bottom: 20px;
 
 #commish {
 width: 80%;
-margin-left: auto;
-margin-right: auto;
+padding-left: 10%;
+padding-right: 10%;
 font-size: 20px;
-padding-left: 0;
-clear: both;
-margin-bottom: 25px;
 }
 
 #TRPsketch {
