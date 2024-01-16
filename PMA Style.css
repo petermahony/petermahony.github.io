@@ -87,6 +87,7 @@ font-family: Palatino, Aboreto, "Times New Roman", georgia;
 font-size: 20px;
 }
 
+
 #mybio {
 clear: both;
 padding: 5px 220px 100px 220px; 
@@ -215,7 +216,7 @@ margin-top: 38px;
 
 #all {
 height: 100%;
-width: 1920px;
+width: 100%;
 }
 
 #header {
@@ -322,27 +323,25 @@ width: 61%;
 bottom: 400px; 
 font-size: 64px;
 letter-spacing: 12px;
+
 }
 
 #bottom-left { 
 left: 320px;
 bottom: 200px; 
 font-size: 32px;
-letter-spacing: 1px;
 }
 
 #bottom-right {
 right: 320px;
 bottom: 200px; 
 font-size: 32px;
-letter-spacing: 1px;
 }
 
 #centered {
 left: 48%;
 bottom: 200px; 
 font-size: 32px;
-letter-spacing: 1px;
 }
 
 #biotitle {
@@ -483,7 +482,7 @@ width: 61%;
 #welcome {
 bottom: 400px; 
 font-size: 62px;
-letter-spacing: 10px;
+letter-spacing: 14px;
 }
 
 #bottom-left { 
@@ -548,7 +547,6 @@ margin: 0;
 height: 200px;
 font-size: 31px;
 letter-spacing: 3px;
-width: 972px;
 padding: 10px;
 }
 
@@ -558,34 +556,31 @@ padding: 10px;
 } 
 
 #FW {
-width: 92%;
+width: 80%;
 }
 
 #welcome {
-bottom: 400px; 
+bottom: 415px; 
 letter-spacing: 20px;
-font-size: 77px;
+font-size: 64px;
 }
 
 #bottom-left {
-left: 67px;
-bottom: 137px; 
-font-size: 43px;
-letter-spacing: 0;
+left: 125px;
+bottom: 154px; 
+font-size: 32px;
 }
 
 #bottom-right {
-right: 67px;
-bottom: 137px; 
-font-size: 43px;
-letter-spacing: 0;
+right: 125px;
+bottom: 154px; 
+font-size: 32px;
 }
 
 #centered {
 left: 47%;
-bottom: 137px; 
-font-size: 43px;
-letter-spacing: 0;
+bottom: 154px; 
+font-size: 32px;
 }
 
 #biotitle {
@@ -593,9 +588,9 @@ font-size: 27px;
 }
 
 #mybio {
-font-size: 23px;
-width: 947px;
-padding: 25px;
+font-size: 20px;
+width: 800px;
+padding: 96px;
 }
 
 #footer2 {
@@ -628,7 +623,6 @@ margin: 0;
 height: 200px;
 font-size: 31px;
 letter-spacing: 3px;
-width: 748px;
 padding: 10px;
 }
 
@@ -651,21 +645,18 @@ font-size: 59px;
 left: 50px;
 bottom: 115px; 
 font-size: 33px;
-letter-spacing: 0;
 }
 
 #bottom-right {
 right: 50px;
 bottom: 115px; 
 font-size: 33px;
-letter-spacing: 0;
 }
 
 #centered {
 left: 47%;
 bottom: 115px; 
 font-size: 33px;
-letter-spacing: 0;
 }
 
 #biotitle {
@@ -675,8 +666,8 @@ left: 20px;
 
 #mybio {
 font-size: 25px;
-width: 728px;
-padding: 20px;
+width: 600px;
+padding: 20px 69px 20px 69px;
 }
 
 #footer2 {
@@ -733,21 +724,18 @@ font-size: 55px;
 left: 50px;
 bottom: 100px; 
 font-size: 27px;
-letter-spacing: 0;
 }
 
 #bottom-right {
 right: 50px;
 bottom: 100px; 
 font-size: 27px;
-letter-spacing: 0;
 }
 
 #centered {
 left: 47%;
 bottom: 100px; 
 font-size: 27px;
-letter-spacing: 0;
 }
 
 #biotitle {
@@ -756,8 +744,8 @@ font-size: 23px;
 
 #mybio {
 font-size: 17px;
-width: 571px;
-padding: 15px;
+width: 500px;
+padding: 15px 50px 15px 50px;
 }
 
 #footer2 {
@@ -794,7 +782,6 @@ width: 460px;
 padding: 10px;
 }
 
-
 #FrostyWalkheading {
 width: 460px;
 padding: 10px;
@@ -814,22 +801,23 @@ font-size: 46px;
 left: 40px;
 bottom: 92px; 
 font-size: 23px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #bottom-right {
 right: 40px;
 bottom: 92px; 
 font-size: 23px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #centered {
 left: 47%;
 bottom: 92px; 
 font-size: 23px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
+
 
 #biotitle {
 font-size: 23px;
@@ -895,21 +883,21 @@ font-size: 40px;
 left: 40px;
 bottom: 92px; 
 font-size: 23px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #bottom-right {
 right: 40px;
 bottom: 92px; 
 font-size: 23px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #centered {
 left: 47%;
 bottom: 92px; 
 font-size: 23px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #biotitle {
@@ -978,21 +966,21 @@ font-size: 38px;
 left: 34px;
 bottom: 92px; 
 font-size: 20px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #bottom-right {
 right: 34px;
 bottom: 92px; 
 font-size: 20px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #centered {
 left: 174px;
 bottom: 92px; 
 font-size: 20px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #biotitle {
@@ -1058,21 +1046,21 @@ letter-spacing: 5px;
 left: 32px;
 bottom: 85px; 
 font-size: 18px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #bottom-right {
 right: 32px;
 bottom: 85px; 
 font-size: 18px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #centered {
 left: 167px;
 bottom: 85px; 
 font-size: 18px;
-letter-spacing: 0;
+letter-spacing: 0px;
 }
 
 #biotitle {
