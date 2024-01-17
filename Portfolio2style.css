@@ -64,7 +64,7 @@ width: 700px;
 height: 0px;
 font-size: 20px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFEEBD
 }
 
 
@@ -106,7 +106,7 @@ width: 700px;
 height: 0px;
 font-size: 20px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB 
+color: #FFEEBD 
 }
 
 #painting3 {
@@ -147,7 +147,7 @@ width: 700px;
 height: 0px;
 font-size: 20px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB
+color: #FFEEBD
 }
 
 #nxtpge {
@@ -155,14 +155,14 @@ position: relative;
 clear: both;
 text-align: center;
 font-size: 25px;
-color: #FFE8AB;
+color: #FFEEBD;
 background-color: #829BB9;
 padding: 10px;
 text-decoration: underline
 }
 
 #portfolio {
-color: #FFE8AB;
+color: #FFEEBD;
 text-decoration: none;
 }
 
@@ -1752,7 +1752,7 @@ width: 0px;
 height: 0px;
 font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB; 
+color: #FFEEBD; 
 }
 
 #portfolio3 {
@@ -1800,21 +1800,21 @@ width: 0px;
 height: 0px;
 font-size: 0px;
 font-family: Aboreto, "Times New Roman", georgia;
-color: #FFE8AB;
+color: #FFEEBD;
 }
 
 #nxtpge {
 position: relative;
 clear: both;
 text-align: center;
-color: #FFE8AB;
+color: #FFEEBD;
 background-color: #829BB9;
 padding: 10px;
 text-decoration: underline;
 }
 
 #portfolio {
-color: #FFE8AB;
+color: #FFEEBD;
 text-decoration: none;
 font-size: 25px;
 }
