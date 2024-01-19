@@ -500,7 +500,6 @@ width: 100%;
 height: 220px;
 font-size: 32px;
 letter-spacing: 5px;
-width: 1346px;
 padding: 10px 10px 10px 10px;
 }
 
@@ -790,6 +789,159 @@ margin-top: 53px;
 
 #footerright2 {
 font-size: 25px;
+margin-right: 5%;
+margin-top: 53px;
+}
+}
+
+@media (max-width: 993px) {
+
+#all {
+height: 100%;
+width: 993px;
+margin: 0;
+}
+
+#header {
+height: 200px;
+font-size: 31px;
+letter-spacing: 3px;
+padding: 10px;
+}
+
+#portfolio1 {
+display: inline-block;
+height: 366px;
+width: 100%;
+}
+
+#painting1 {
+width: 49%;
+}
+
+#info1 {
+top: 240px;
+right: 270px;
+width: 170px;
+font-size: 19px;
+}
+
+#portfolioframed1 {
+display: inline-block;
+height: 277px;
+width: 100%;
+}
+
+#paintingframed1 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 905px;
+width: 31.5%;
+}
+
+#bio1 {
+bottom: 161px;
+left: 31px;
+width: 610px;
+height: 0px;
+font-size: 19px;
+}
+
+#portfolio2 {
+display: inline-block;
+height: 438px;
+width: 100%;
+}
+
+#painting2 {
+padding: 25px;
+width: 49%;
+}
+
+#info2 {
+top: 295px;
+right: 270px;
+width: 170px;
+font-size: 19px;
+}
+
+#portfolioframed2 {
+display: inline-block;
+height: 304px;
+width: 100%;
+}
+
+#paintingframed2 {
+position: relative;
+padding: 25px;
+background-color: #546875;
+float: right;
+clear: left;
+padding-left: 872px;
+width: 33.5%;
+}
+
+#bio2 {
+bottom: 205px;
+left: 31px;
+width: 585px;
+height: 0px;
+font-size: 19px;
+}
+
+#portfolio3 {
+display: inline-block;
+height: 370px;
+width: 100%;
+}
+
+#painting3 {
+padding: 25px;
+width: 49%;
+}
+
+#info3 {
+top: 230px;
+right: 270px;
+width: 170px;
+font-size: 19px;
+}
+
+#paintingframed3 {
+padding: 25px;
+padding-left: 100%;
+width: 35%;
+}
+
+#bio3 {
+bottom: 195px;
+left: 31px;
+width: 577px;
+height: 0px;
+font-size: 19px;
+}
+
+#nxtpge {
+padding: 10px;
+font-size: 34px;
+}
+
+#footer2 {
+height: 150px;
+width: 100%;
+}
+
+#footerleft2 {
+font-size: 20px;
+margin-left: 5%;
+margin-top: 53px;
+}
+
+#footerright2 {
+font-size: 20px;
 margin-right: 5%;
 margin-top: 53px;
 }
