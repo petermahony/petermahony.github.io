@@ -369,16 +369,16 @@ margin-top: 38px;
 @media (max-width: 1280px) {
 #all {
 height: 100%;
-width: 1280px;
+width: 100%;
 margin: 0;
 }
 
 #header {
-height: 230px;
-font-size: 34px;
-letter-spacing: 3px;
-width: 1260px;
-padding: 1px 10px 10px 10px;
+height: 140px;
+padding-top: 10px;
+padding-bottom: 65px;
+font-size: 31px;
+letter-spacing: 7px;
 }
 
 #TRPheading {
@@ -393,7 +393,6 @@ width: 80%;
 font-size: 40px;
 padding: 10px;
 padding-bottom: 20px;
-background-color: #546875;
 }
 
 #commish {
@@ -432,7 +431,7 @@ font-size: 34px;
 
 #footer2 {
 height: 150px;
-width: 1280px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -451,7 +450,7 @@ margin-top: 53px;
 @media (max-width: 992px) {
 #all {
 height: 100%;
-width: 992px;
+width: 100%;
 margin: 0;
 }
 
@@ -513,7 +512,7 @@ font-size: 31px;
 
 #footer2 {
 height: 100px;
-width: 992px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -532,16 +531,16 @@ margin-top: 38px;
 @media (max-width: 768px) {
 #all {
 height: 100%;
-width: 768px;
+width: 100%;
 margin: 0;
 }
 
 #header {
-height: 200px;
-font-size: 31px;
+height: 140px;
+font-size: 27px;
 letter-spacing: 3px;
-width: 748px;
-padding: 10px;
+padding-top: 5px;
+padding-bottom: 40px;
 }
 
 #TRPheading {
@@ -595,7 +594,7 @@ height: 40px;
 
 #footer2 {
 height: 100px;
-width: 768px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -614,7 +613,7 @@ margin-top: 38px;
 @media (max-width: 601px) {
 #all {
 height: 100%;
-width: 601px;
+width: 100%;
 margin: 0;
 }
 
@@ -622,8 +621,6 @@ margin: 0;
 height: 133px;
 font-size: 23px;
 letter-spacing: 3px;
-width: 581px;
-padding: 1px 10px 10px 10px;
 }
 
 #TRPheading {
@@ -678,17 +675,17 @@ height: 40px;
 
 #footer2 {
 height: 100px;
-width: 601px;
+width: 100%;
 }
 
 #footerleft2 {
-font-size: 17px;
+font-size: 15px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 17px;
+font-size: 15px;
 margin-right: 5%;
 margin-top: 38px;
 }
@@ -969,7 +966,7 @@ width: 80%;
 }
 
 #Commissions {
-font-size: 31px;
+font-size: 27px;
 padding: 10px;
 padding-bottom: 20px;
 }
@@ -979,7 +976,7 @@ padding-bottom: 20px;
 width: 80%;
 padding-left: 10%;
 padding-right: 10%;
-font-size: 20px;
+font-size: 14px;
 }
 
 #TRPsketch {
@@ -1026,8 +1023,3 @@ margin-right: 5%;
 margin-top: 38px;
 }
 }
-
-
-
-
-
