@@ -133,7 +133,7 @@ text-decoration: underline;
 
 #all {
 height: 100%;
-width: 3840px;
+width: 100%;
 }
 
 #header {
@@ -194,7 +194,7 @@ min-width: 300px;
 
 #footer2 {
 height: 140px;
-width: 3840px;
+width: 100%;
 padding-top: 27px;
 }
 
@@ -224,7 +224,7 @@ height: 161px;
 padding-top: 10px;
 padding-bottom: 65px;
 font-size: 34px;
-letter-spacing: 10px;
+letter-spacing: 14px;
 }
 
 #FrostyWalkheading {
@@ -268,7 +268,6 @@ letter-spacing: 2px;
 font-size: 25px;
 }
 
-
 #mybio {
 clear: both;
 padding: 5px 220px 100px 220px; 
@@ -278,7 +277,7 @@ min-width: 300px;
 
 #footer2 {
 height: 100px;
-width: 1920px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -299,7 +298,7 @@ margin-top: 38px;
 
 #all {
 height: 100%;
-width: 1440px;
+width: 100%;
 }
 
 #header {
@@ -387,7 +386,7 @@ height: 140px;
 padding-top: 10px;
 padding-bottom: 65px;
 font-size: 31px;
-letter-spacing: 7px;
+letter-spacing: 10px;
 }
 
 #FrostyWalkheading {
@@ -467,7 +466,7 @@ height: 140px;
 padding-top: 10px;
 padding-bottom: 65px;
 font-size: 31px;
-letter-spacing: 7px;
+letter-spacing: 10px;
 }
 
 #FrostyWalkheading {
@@ -480,28 +479,27 @@ width: 61%;
 }
 
 #welcome {
-bottom: 400px; 
+bottom: 370px; 
 font-size: 62px;
-letter-spacing: 14px;
+letter-spacing: 19px;
 }
 
 #bottom-left { 
-left: 320px;
-bottom: 200px; 
+left: 285px;
+bottom: 140px; 
 font-size: 32px;
 }
 
 #bottom-right {
-right: 320px;
-bottom: 200px; 
+right: 285px;
+bottom: 140px; 
 font-size: 32px;
 }
 
 #centered {
 left: 48%;
-bottom: 200px; 
-font-size: 32px;
-color: #FFEEBD;
+bottom: 140px; 
+font-size: 31px;
 }
 
 #biotitle {
@@ -510,7 +508,6 @@ font-size: 22px;
 
 
 #mybio {
-clear: both;
 padding: 5px 220px 100px 220px; 
 font-size: 19px;
 min-width: 300px;
@@ -546,12 +543,11 @@ margin: 0;
 #header {
 height: 200px;
 font-size: 31px;
-letter-spacing: 3px;
+letter-spacing: 7px;
 padding: 10px;
 }
 
 #FrostyWalkheading {
-width: 972px;
 padding: 10px;
 } 
 
@@ -560,26 +556,26 @@ width: 80%;
 }
 
 #welcome {
-bottom: 415px; 
+bottom: 370px; 
 letter-spacing: 20px;
 font-size: 64px;
 }
 
 #bottom-left {
-left: 125px;
-bottom: 154px; 
+left: 120px;
+bottom: 124px; 
 font-size: 32px;
 }
 
 #bottom-right {
-right: 125px;
-bottom: 154px; 
+right: 120px;
+bottom: 124px; 
 font-size: 32px;
 }
 
 #centered {
 left: 47%;
-bottom: 154px; 
+bottom: 124px; 
 font-size: 32px;
 }
 
@@ -588,14 +584,14 @@ font-size: 27px;
 }
 
 #mybio {
-font-size: 20px;
-width: 800px;
-padding: 96px;
+padding: 5px 50px 100px 50px; 
+font-size: 19px;
+min-width: 300px;
 }
 
 #footer2 {
 height: 100px;
-width: 992px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -620,14 +616,14 @@ margin: 0;
 }
 
 #header {
-height: 200px;
-font-size: 31px;
+height: 140px;
+font-size: 27px;
 letter-spacing: 3px;
-padding: 10px;
+padding-top: 5px;
+padding-bottom: 40px;
 }
 
 #FrostyWalkheading {
-width: 748px;
 padding: 10px;
 } 
 
@@ -644,35 +640,35 @@ font-size: 59px;
 #bottom-left {
 left: 50px;
 bottom: 115px; 
-font-size: 33px;
+font-size: 27px;
 }
 
 #bottom-right {
 right: 50px;
 bottom: 115px; 
-font-size: 33px;
+font-size: 27px;
 }
 
 #centered {
 left: 47%;
 bottom: 115px; 
-font-size: 33px;
+font-size: 27px;
 }
 
 #biotitle {
 font-size: 31px;
-left: 20px;
+left: 19px;
 }
 
 #mybio {
-font-size: 25px;
-width: 600px;
-padding: 20px 69px 20px 69px;
+padding: 0 50px 34px 50px; 
+font-size: 18px;
+min-width: 300px;
 }
 
 #footer2 {
 height: 100px;
-width: 768px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -692,21 +688,19 @@ margin-top: 38px;
 
 #all {
 height: 100%;
-width: 601px;
+width: 100%;
 margin: 0;
 }
 
 #header {
-height: 133px;
+height: 140px;
 font-size: 23px;
 letter-spacing: 3px;
-width: 581px;
 padding: 1px 10px 10px 10px;
 }
 
 
 #FrostyWalkheading {
-width: 581px;
 padding: 10px;
 } 
 
@@ -721,21 +715,21 @@ font-size: 55px;
 }
 
 #bottom-left {
-left: 50px;
+left: 43px;
 bottom: 100px; 
-font-size: 27px;
+font-size: 23px;
 }
 
 #bottom-right {
-right: 50px;
+right: 43px;
 bottom: 100px; 
-font-size: 27px;
+font-size: 23px;
 }
 
 #centered {
 left: 47%;
 bottom: 100px; 
-font-size: 27px;
+font-size: 23px;
 }
 
 #biotitle {
@@ -743,24 +737,24 @@ font-size: 23px;
 }
 
 #mybio {
-font-size: 17px;
-width: 500px;
-padding: 15px 50px 15px 50px;
+padding: 0 50px 34px 50px; 
+font-size: 18px;
+min-width: 300px;
 }
 
 #footer2 {
 height: 100px;
-width: 601px;
+width: 100%;
 }
 
 #footerleft2 {
-font-size: 17px;
+font-size: 15px;
 margin-left: 5%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 17px;
+font-size: 15px;
 margin-right: 5%;
 margin-top: 38px;
 }
@@ -778,12 +772,9 @@ margin: 0;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
-width: 460px;
-padding: 10px;
 }
 
 #FrostyWalkheading {
-width: 460px;
 padding: 10px;
 } 
 
@@ -824,25 +815,25 @@ font-size: 23px;
 }
 
 #mybio {
-font-size: 17px;
-width: 450px;
-padding: 15px;
+padding: 0 25px 34px 25px; 
+font-size: 19px;
+min-width: 300px;
 }
 
 #footer2 {
 height: 100px;
-width: 480px;
+width: 100%;
 }
 
 #footerleft2 {
-font-size: 15px;
-margin-left: 5%;
+font-size: 14px;
+margin-left: 3%;
 margin-top: 38px;
 }
 
 #footerright2 {
-font-size: 15px;
-margin-right: 5%;
+font-size: 14px;
+margin-right: 3%;
 margin-top: 38px;
 }
 }
@@ -859,13 +850,10 @@ margin: 0;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
-width: 394px;
-padding: 10px;
 }
 
 
 #FrostyWalkheading {
-width: 394px;
 padding: 10px;
 } 
 
@@ -880,14 +868,14 @@ font-size: 40px;
 }
 
 #bottom-left {
-left: 40px;
+left: 34px;
 bottom: 92px; 
 font-size: 23px;
 letter-spacing: 0px;
 }
 
 #bottom-right {
-right: 40px;
+right: 34px;
 bottom: 92px; 
 font-size: 23px;
 letter-spacing: 0px;
@@ -905,15 +893,15 @@ font-size: 23px;
 }
 
 #mybio {
-font-size: 17px;
-width: 384px;
-padding: 15px;
+padding: 0 25px 34px 25px; 
+font-size: 19px;
+min-width: 300px;
 }
 
 
 #footer2 {
 height: 100px;
-width: 414px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -941,13 +929,9 @@ margin: 0;
 height: 124px;
 font-size: 20px;
 letter-spacing: 3px;
-width: 355px;
-padding: 10px;
 }
 
-
 #FrostyWalkheading {
-width: 355px;
 padding: 10px;
 } 
 
@@ -988,25 +972,25 @@ font-size: 20px;
 }
 
 #mybio {
-font-size: 14px;
-width: 345px;
-padding: 15px;
+padding: 0 25px 34px 25px; 
+font-size: 19px;
+min-width: 300px;
 }
 
 #footer2 {
 height: 100px;
-width: 375px;
+width: 100%;
 }
 
 #footerleft2 {
 font-size: 12px;
-margin-left: 5%;
+margin-left: 3%;
 margin-top: 38px;
 }
 
 #footerright2 {
 font-size: 12px;
-margin-right: 5%;
+margin-right: 3%;
 margin-top: 38px;
 }
 }
@@ -1029,7 +1013,6 @@ padding: 10px;
 
 
 #FrostyWalkheading {
-width: 340px;
 padding: 10px;
 } 
 
