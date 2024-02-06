@@ -519,7 +519,7 @@ margin-top: 38px;
 @media (max-width: 992px) {
 #all {
 height: 100%;
-width: 992px;
+width: 100%;
 margin: 0;
 }
 
@@ -527,7 +527,6 @@ margin: 0;
 height: 200px;
 font-size: 31px;
 letter-spacing: 3px;
-width: 972px;
 padding: 10px;
 }
 
@@ -597,7 +596,7 @@ font-size: 31px;
 
 #footer2 {
 height: 100px;
-width: 992px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -616,16 +615,16 @@ margin-top: 38px;
 @media (max-width: 768px) {
 #all {
 height: 100%;
-width: 768px;
+width: 100%;
 margin: 0;
 }
 
 #header {
-height: 200px;
+height: 140px;
 font-size: 27px;
 letter-spacing: 3px;
-width: 748px;
-padding: 10px;
+padding-top: 5px;
+padding-bottom: 40px;
 }
 
 #PrintsTitle {
@@ -695,7 +694,7 @@ height: 40px;
 
 #footer2 {
 height: 100px;
-width: 768px;
+width: 100%;
 }
 
 #footerleft2 {
@@ -1203,9 +1202,3 @@ margin-right: 5%;
 margin-top: 38px;
 }
 }
-
-
-
-
-
-
