@@ -214,7 +214,7 @@ width: 50%;
 }
 
 #info1 {
-top: 600px;
+top: 610px;
 right: 670px;
 width: 190px;
 font-size: 20px;
@@ -237,9 +237,9 @@ width: 31.5%;
 }
 
 #bio1 {
-bottom: 400px;
+bottom: 370px;
 left: 185px;
-width: 910px;
+width: 911px;
 height: 0px;
 font-size: 23px;
 }
@@ -256,7 +256,7 @@ width: 50%;
 }
 
 #info2 {
-top: 661px;
+top: 649px;
 right: 670px;
 width: 190px;
 font-size: 20px;
@@ -264,22 +264,18 @@ font-size: 20px;
 
 #portfolioframed2 {
 display: inline-block;
-height: 620px;
+height: 619px;
 width: 100%;
 }
 
 #paintingframed2 {
-position: relative;
 padding: 25px;
-background-color: #546875;
-float: right;
-clear: left;
 padding-left: 100%;
 width: 33.5%;
 }
 
 #bio2 {
-bottom: 380px;
+bottom: 310px;
 left: 185px;
 width: 870px;
 height: 0px;
@@ -298,7 +294,7 @@ width: 50%;
 }
 
 #info3 {
-top: 510px;
+top: 514px;
 right: 670px;
 width: 190px;
 font-size: 20px;
@@ -311,8 +307,8 @@ width: 35%;
 }
 
 #bio3 {
-bottom: 340px;
-left: 185px;
+bottom: 285px;
+left: 147px;
 width: 910px;
 height: 0px;
 font-size: 23px;
@@ -357,7 +353,7 @@ padding: 10px 10px 10px 10px;
 
 #portfolio1 {
 display: inline-block;
-height: 615px;
+height: 614px;
 width: 100%;
 }
 
@@ -366,15 +362,15 @@ width: 50%;
 }
 
 #info1 {
-top: 410px;
-right: 474px;
+top: 485px;
+right: 460px;
 width: 170px;
 font-size: 18px;
 }
 
 #portfolioframed1 {
 display: inline-block;
-height: 479px;
+height: 476px;
 width: 100%;
 }
 
@@ -389,8 +385,8 @@ width: 31.5%;
 }
 
 #bio1 {
-bottom: 315px;
-left: 100px;
+bottom: 340px;
+left: 110px;
 width: 700px;
 height: 0px;
 font-size: 20px;
@@ -408,8 +404,8 @@ width: 50%;
 }
 
 #info2 {
-top: 485px;
-right: 474px;
+top: 511px;
+right: 460px;
 width: 170px;
 font-size: 18px;
 }
@@ -431,8 +427,8 @@ width: 33.5%;
 }
 
 #bio2 {
-bottom: 300px;
-left: 85px;
+bottom: 270px;
+left: 110px;
 width: 700px;
 height: 0px;
 font-size: 20px;
@@ -440,7 +436,7 @@ font-size: 20px;
 
 #portfolio3 {
 display: inline-block;
-height: 527px;
+height: 525px;
 width: 100%;
 }
 
@@ -450,8 +446,8 @@ width: 50%;
 }
 
 #info3 {
-top: 385px;
-right: 474px;
+top: 400px;
+right: 460px;
 width: 170px;
 font-size: 18px;
 }
@@ -464,7 +460,7 @@ width: 35%;
 
 #bio3 {
 bottom: 255px;
-left: 61px;
+left: 110px;
 width: 700px;
 height: 0px;
 font-size: 20px;
@@ -509,24 +505,24 @@ padding: 10px 10px 10px 10px;
 
 #portfolio1 {
 display: inline-block;
-height: 585px;
+height: 574px;
 width: 100%;
 }
 
 #painting1 {
-width: 50%;
+width: 49%;
 }
 
 #info1 {
-top: 430px;
-right: 431px;
+top: 421px;
+right: 443px;
 width: 170px;
 font-size: 18px;
 }
 
 #portfolioframed1 {
 display: inline-block;
-height: 430px;
+height: 455px;
 width: 100%;
 }
 
@@ -541,8 +537,8 @@ width: 31.5%;
 }
 
 #bio1 {
-bottom: 315px;
-left: 85px;
+bottom: 310px;
+left: 100px;
 width: 700px;
 height: 0px;
 font-size: 20px;
@@ -550,25 +546,25 @@ font-size: 20px;
 
 #portfolio2 {
 display: inline-block;
-height: 616px;
+height: 604px;
 width: 100%;
 }
 
 #painting2 {
 padding: 25px;
-width: 50%;
+width: 49%;
 }
 
 #info2 {
-top: 455px;
-right: 431px;
+top: 443px;
+right: 443px;
 width: 170px;
 font-size: 18px;
 }
 
 #portfolioframed2 {
 display: inline-block;
-height: 454px;
+height: 453px;
 width: 100%;
 }
 
@@ -583,8 +579,8 @@ width: 33.5%;
 }
 
 #bio2 {
-bottom: 250px;
-left: 85px;
+bottom: 270px;
+left: 100px;
 width: 700px;
 height: 0px;
 font-size: 20px;
@@ -592,18 +588,18 @@ font-size: 20px;
 
 #portfolio3 {
 display: inline-block;
-height: 501px;
+height: 491px;
 width: 100%;
 }
 
 #painting3 {
 padding: 25px;
-width: 50%;
+width: 49%;
 }
 
 #info3 {
-top: 362px;
-right: 431px;
+top: 355px;
+right: 443px;
 width: 170px;
 font-size: 18px;
 }
@@ -615,8 +611,8 @@ width: 35%;
 }
 
 #bio3 {
-bottom: 220px;
-left: 85px;
+bottom: 241px;
+left: 100px;
 width: 700px;
 height: 0px;
 font-size: 20px;
