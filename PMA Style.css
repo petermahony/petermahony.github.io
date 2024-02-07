@@ -101,6 +101,10 @@ min-width: 300px;
 font-family: Aboreto, Baskerville, Cambria;
 }
 
+#etsy {
+	color: black;
+}
+
 #footer2 {
 position: relative;
 background-color: #829BB9;
